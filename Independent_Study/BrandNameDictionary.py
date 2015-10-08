@@ -9,8 +9,24 @@ class BrandNameList(object):
     _no_brand_name = 2
 
     def __init__(self):
-        self._list = [line.rstrip('\n') for line in open(Constants.brand_name_list_file_name)]
-        self._list = self._list[self._no_brand_name:]
+        lines = [line.rstrip('\n') for line in open(Constants.brand_name_list_file_name_freq)]
+        self._list = []
+        self._map = {}
+        for line in lines:
+            words = line.split()
+            length = len(words)
+            brand_name = ''
+            for i in range(length-1):
+                brand_name += ' ' + words[i]
+            brand_name = brand_name.strip()
+            freq = words[-1]
+            self._map[brand_name] = freq
+            self._list.append(brand_name)
+        if '' in self._map:
+            self._map.pop('')
 
     def get_list(self):
         return self._list
+
+    def get_map(self):
+        return self._map

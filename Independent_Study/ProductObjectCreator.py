@@ -59,7 +59,7 @@ def parse_json_create_object(data, pid):
     not_in_constant = [x for x in keys if x not in C.all_json_keys]
     if len(not_in_constant) > 0:
         str_msg = "Keys missing in the structure for product id " + pid + " : " + str(not_in_constant)
-        logger.warning(str_msg)
+        #logger.warning(str_msg)
     return Product(product_id=pid,
                    brand=brand,
                    p_type=p_type,

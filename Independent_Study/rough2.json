@@ -1,67 +1,67 @@
-{
-  "Brand": [
-    "Antenna"
-  ],
-  "Country of Origin: Components": [
-    "Imported"
-  ],
-  "Type": [
-    "Designed For Mac|Check-Point Friendly|Water Resistant"
-  ],
-  "Product Short Description": [
-    "Features: -Color:Green -Pattern:Floral -Primary Material:Fabric -Water Resistant:Yes -Gender:Female -Laptop Size:Up to 13 -Laptop Size:Up to 15 -Laptop Size:Up to 17 -MacBook Compatible:Yes -Check-Point Friendly:Yes -Hardsided:No -Locking:No. Dimensions: -Overall Height - Top to Bottom:13.9 -Overall Height - Top to Bottom:15.15 -Overall Height - Top to Bottom:16.5 -Overall Width - Side to Side:10 -Overall Width - Side to Side:10.75 -Overall Width - Side to Side:11.5 -Overall Depth - Front to Back:1 -Overall Depth - Front to Back:1 -Overall Depth - Front to Back:1 Sleeves Case Cases Cover Covers Leather Neoprene Netbook Skins Luggage 13 15 17 17 Bags CheckPoint Designed Fabric Floral Friendly Mac Resistant to Up Water Womens Halloween back to school"
-  ],
-  "Material": [
-    "Fabric"
-  ],
-  "Actual Color": [
-    "Green"
-  ],
-  "Color": [
-    "Green"
-  ],
-  "Product Segment": [
-    "Electronics"
-  ],
-  "Product Name": [
-    "Antenna Summer Green Laptop Sleeve for Macbook"
-  ],
-  "Product Type": [
-    "Laptop Bags & Cases"
-  ],
-  "Manufacturer Part Number": [
-    "PS-011-15"
-  ],
-  "Category": [
-    "Laptop Sleeves"
-  ],
-  "Manufacturer": [
-    "Antenna"
-  ],
-  "Assembled Product Width": [
-    "11.5"
-  ],
-  "Product Long Description": [
-    "ENA1042Features <br /> <li>Color:Green</li><li>Pattern:Floral</li><li>Primary Material:Fabric</li><li>Water Resistant:Yes</li><li>Gender:Female</li><li>Laptop Size:Up to 13</li><li>Laptop Size:Up to 15</li><li>Laptop Size:Up to 17</li><li>MacBook Compatible:Yes</li><li>Check-Point Friendly:Yes</li><li>Hardsided:No</li><li>Locking:No</li> Dimensions <br /> <li>Overall Height - Top to Bottom:13.9</li><li>Overall Height - Top to Bottom:15.15</li><li>Overall Height - Top to Bottom:16.5</li><li>Overall Width - Side to Side:10</li><li>Overall Width - Side to Side:10.75</li><li>Overall Width - Side to Side:11.5</li><li>Overall Depth - Front to Back:1</li><li>Overall Depth - Front to Back:1</li><li>Overall Depth - Front to Back:1</li>"
-  ],
-  "Assembled Product Length": [
-    "1.0"
-  ],
-  "GTIN": [
-    "GTIN_255045_00658430070997"
-  ],
-  "Assembled Product Height": [
-    "16.5"
-  ],
-  "Screen Size": [
-    "Up to 15"
-  ],
-  "Pattern": [
-    "Floral"
-  ],
-  "Size": [
-    "15\"],"
-    UPC
-    ":["
-    658430070997
-    "]"
+INFO:Matcher:Brand predicted for pair id : 9208106-9208106#eBags brand + HP
+INFO:Matcher:Very less confidence on pair id: 9208106-9208106#eBags
+INFO:Matcher:Brand predicted for pair id : 11988059-11988059#eBags brand + Sumo
+INFO:Matcher:Very less confidence on pair id: 11988059-11988059#eBags
+INFO:Matcher:Brand predicted for pair id : 12181620-12181620#eBags brand + Siamod
+INFO:Matcher:Very less confidence on pair id: 12181620-12181620#eBags
+INFO:Matcher:Brand predicted for pair id : 932031-932031#Limited Goods brand + Cable Electronics
+INFO:Matcher:Very less confidence on pair id: 932031-932031#Limited Goods
+INFO:Matcher:Brand predicted for pair id : 1234894-1234894#Limited Goods brand + Canon
+INFO:Matcher:Very less confidence on pair id: 1234894-1234894#Limited Goods
+INFO:Matcher:Brand predicted for pair id : 3756896-3756896#Limited Goods brand + Cable Electronics
+INFO:Matcher:Very less confidence on pair id: 3756896-3756896#Limited Goods
+INFO:Matcher:Brand predicted for pair id : 7754443-7754443#Limited Goods brand + MAXELL MEDIA
+INFO:Matcher:Very less confidence on pair id: 7754443-7754443#Limited Goods
+INFO:Matcher:Brand predicted for pair id : 9871188-9871188#Limited Goods brand + Toys Toys
+INFO:Matcher:Very less confidence on pair id: 9871188-9871188#Limited Goods
+INFO:Matcher:Brand predicted for pair id : 872051-872051#ivgStores brand + Eveready
+INFO:Matcher:Very less confidence on pair id: 872051-872051#ivgStores
+INFO:Matcher:Brand predicted for pair id : 4664464-4664464#ivgStores brand + Canon
+INFO:Matcher:Very less confidence on pair id: 4664464-4664464#ivgStores
+INFO:Matcher:Brand predicted for pair id : 17771102-17771102#Babyhaven brand + Bright
+INFO:Matcher:Very less confidence on pair id: 17771102-17771102#Babyhaven
+INFO:Matcher:Brand predicted for pair id : 7964947-7964947#ivgStores brand + Glow
+INFO:Matcher:Very less confidence on pair id: 7964947-7964947#ivgStores
+INFO:Matcher:Brand predicted for pair id : 7964948-7964948#ivgStores brand + Glow
+INFO:Matcher:Very less confidence on pair id: 7964948-7964948#ivgStores
+INFO:Matcher:Brand predicted for pair id : 1233539-1233539#ivgStores brand + Dual Electronics
+INFO:Matcher:Very less confidence on pair id: 1233539-1233539#ivgStores
+INFO:Matcher:Brand predicted for pair id : 2470635-2470635#ivgStores brand + GPS
+INFO:Matcher:Very less confidence on pair id: 2470635-2470635#ivgStores
+INFO:Matcher:Brand predicted for pair id : 8154370-8154370#ivgStores brand + Garmin
+INFO:Matcher:Very less confidence on pair id: 8154370-8154370#ivgStores
+WARNING:__main__:Atleast one of the product is not parsed correctly in pair 13071910-13071910#eBags
+INFO:Matcher:Brand predicted for pair id : 1233548-1233548#ivgStores brand + Dual Electronics
+INFO:Matcher:Very less confidence on pair id: 1233548-1233548#ivgStores
+INFO:Matcher:Brand predicted for pair id : 5934005-5934005#ivgStores brand + Mac
+INFO:Matcher:Very less confidence on pair id: 5934005-5934005#ivgStores
+INFO:Matcher:Brand predicted for pair id : 8111422-8111422#ivgStores brand + AAA
+INFO:Matcher:Very less confidence on pair id: 8111422-8111422#ivgStores
+INFO:Matcher:Brand predicted for pair id : 9907221-9907221#ivgStores brand + Concepts
+INFO:Matcher:Very less confidence on pair id: 9907221-9907221#ivgStores
+INFO:Matcher:Brand predicted for pair id : 16660784-16660759#eBags brand + New York
+INFO:Matcher:Very less confidence on pair id: 16660784-16660759#eBags
+INFO:Matcher:Brand predicted for pair id : 16660770-16660759#eBags brand + New York
+INFO:Matcher:Very less confidence on pair id: 16660770-16660759#eBags
+INFO:Matcher:Brand predicted for pair id : 16660784-16660772#eBags brand + New York
+INFO:Matcher:Very less confidence on pair id: 16660784-16660772#eBags
+INFO:Matcher:Brand predicted for pair id : 16660770-16660772#eBags brand + New York
+INFO:Matcher:Very less confidence on pair id: 16660770-16660772#eBags
+INFO:Matcher:Brand predicted for pair id : 16660861-16660778#eBags brand + New York
+INFO:Matcher:Very less confidence on pair id: 16660861-16660778#eBags
+INFO:Matcher:Brand predicted for pair id : 15722382-16660778#eBags brand + J World
+INFO:Matcher:Very less confidence on pair id: 15722382-16660778#eBags
+INFO:Matcher:Brand predicted for pair id : 13044365-14931223#ivgStores brand + 3M
+INFO:Matcher:Very less confidence on pair id: 13044365-14931223#ivgStores
+INFO:Matcher:Brand predicted for pair id : 13044363-14931223#ivgStores brand + 3M
+INFO:Matcher:Very less confidence on pair id: 13044363-14931223#ivgStores
+INFO:Matcher:Brand predicted for pair id : 14935224-14931223#ivgStores brand + 3M
+INFO:Matcher:Very less confidence on pair id: 14935224-14931223#ivgStores
+INFO:Matcher:Brand predicted for pair id : 40182247-15048429#ivgStores brand + Audio-Technica
+INFO:Matcher:Very less confidence on pair id: 40182247-15048429#ivgStores
+INFO:Matcher:Brand predicted for pair id : 20849252-15200080#ivgStores brand + Florida
+INFO:Matcher:Very less confidence on pair id: 20849252-15200080#ivgStores
+INFO:Matcher:Brand predicted for pair id : 20847587-15200080#ivgStores brand + Florida
+INFO:Matcher:Very less confidence on pair id: 20847587-15200080#ivgStores
+INFO:Matcher:Brand predicted for pair id : 20847566-15200080#ivgStores brand + Florida
+INFO:Matcher:Very less confidence on pair id: 20847566-15200080#ivgStores
