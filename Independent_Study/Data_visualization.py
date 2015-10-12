@@ -13,4 +13,4 @@ def show_tuple_pairs(p):
         print "Product 1 %-20s %s" % (x, attrs_v[x])
         print "Product 2 %-20s %s" % (x, attrs_w[x])
 
-show_tuple_pairs('40182247-15048429#ivgStores')
+show_tuple_pairs('29829040-29829040#Perf-Moto')

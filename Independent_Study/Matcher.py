@@ -21,7 +21,8 @@ def if_both_product_not_defined(pair):
 
 
 def if_no_brand_name_in_either_product(pair):
-    return pair.v.brand is None or pair.w.brand is None
+    return pair.v.brand is None or pair.w.brand is None \
+           or pair.v.brand.strip() == '' or pair.w.brand.strip() == ''
 
 
 def is_exact_match(pair):
@@ -65,8 +66,17 @@ def check_edit_distance_measure(string1, string2):
 
 
 def check_jaccard_measure(string1, string2):
-    return distance.jaccard(string1, string2) == C.threshold_jaccard_measure
+    set1 = get_token_length_n(string1, 2)
+    set2 = get_token_length_n(string2, 2)
+    n = len(set1.intersection(set2))
+    return (n / float(len(set1) + len(set2) - n)) > C.threshold_jaccard_measure
 
+def get_token_length_n(string, length):
+    s = set()
+    for i in range(len(string)-length+1):
+        j = i+length
+        s.add(string[i:j])
+    return s
 
 def is_jaccard_match(pair):
     if if_no_brand_name_in_either_product(pair):
@@ -82,7 +92,7 @@ def get_all_keywords(v):
     for key in attrs:
         value = attrs[key]
         if type(value) is str and value.strip() != "":
-            v_list = [x.strip('.') for x in re.split(C.regex_to_tokenize_words_into_set, value)]
+            v_list = [x.lower().strip('.') for x in re.split(C.regex_to_tokenize_words_into_set, value)]
             if len(v_list) > 0:
                 result |= set(v_list)
     return result
@@ -103,16 +113,17 @@ def check_product_description_for_both_product(pair):
                 max_probable_brand = brand
                 max_value = brand_value
     if max_value > C.threshold_brand_value:
-        logger.info("Brand predicted for pair id : " + pair.pair_id + " brand + " + max_probable_brand)
+        logger.info("4.14 :: Brand predicted for pair id : " + pair.pair_id + " brand + " + max_probable_brand + " confidence :: " + str(max_value))
         return True
     return False
 
 
-def check_product_description_for_one_product(product_to_check, brand):
+def check_product_description_for_one_product(pair, product_to_check, brand):
     keywords_in_products = get_all_keywords(product_to_check)
     tokens_in_brand = set(re.split(C.regex_to_tokenize_words_into_set, brand))
     new_set = tokens_in_brand.difference(keywords_in_products)
     if len(new_set) == 0:
+        logger.info("4.23 :: Brand predicted for pair id : " + pair.pair_id + " brand + " + brand)
         return True
     return False
 
@@ -124,15 +135,19 @@ def check_product_descripton_given_unmatched_brand(pair):
 def is_brand_match_on_description(pair):
     if is_exact_match(pair):
         return True
-    if pair.v.brand is None and pair.w.brand is None:
+    if (pair.v.brand is None or pair.v.brand.strip() == '') \
+            and (pair.w.brand is None or pair.w.brand.strip() == ''):
         if check_product_description_for_both_product(pair):
             logger.info("ALGO id : 4.1, pair matched " + pair.pair_id)
-    elif pair.v.brand is None:
-        if check_product_description_for_one_product(pair.v, pair.w.brand):
+            return True
+    elif pair.v.brand is None or pair.v.brand.strip() == '':
+        if check_product_description_for_one_product(pair, pair.v, pair.w.brand):
             logger.info("ALGO id : 4.2, pair matched " + pair.pair_id)
-    elif pair.w.brand is None:
-        if check_product_description_for_one_product(pair.w, pair.v.brand):
+            return True
+    elif pair.w.brand is None or pair.w.brand.strip() == '':
+        if check_product_description_for_one_product(pair, pair.w, pair.v.brand):
             logger.info("ALGO id : 4.3, pair matched " + pair.pair_id)
+            return True
     elif check_product_descripton_given_unmatched_brand(pair):
         logger.info("ALGO id : 4.4, pair matched " + pair.pair_id)
         return True

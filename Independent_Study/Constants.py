@@ -3,6 +3,7 @@ __author__ = 'aliHitawala'
 brand_name_list_file_name = "files/brands.electronics-frank.txt"
 brand_name_list_file_name_freq = "files/all_brand_dic.txt"
 all_pairs_file_name = "files/sample_elec_pairs.txt"
+# all_pairs_file_name = "files/elec_pairs_2K.txt"
 results_file_name = "files/results.txt"
 brand_name_golden_data_file_name = "files/brand_name_match_golden_result"
 
@@ -12,8 +13,8 @@ matcher_algo_jaccard_match = "JACCARD_MATCH"
 matcher_algo_information_extraction = "INFORMATION_EXTRACTION"
 threshold_edit_distance_measure = 0.9
 threshold_dictionary_part_weighted_measure = 100
-threshold_jaccard_measure = 0
-threshold_brand_value = 10
+threshold_jaccard_measure = 0.9
+threshold_brand_value = 1000
 
 regex_to_tokenize_words_into_set = ' |; |, |\*|\n|<|>|-|/|:|\''
 json_brand_tag = "Brand"

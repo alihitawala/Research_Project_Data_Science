@@ -42,5 +42,17 @@ if __name__ == '__main__':
     # c2 = "Tesla".split()
     # c3 = set(c1).intersection(set(c2))
     # print list(c3)
-    parse_file_get_pairs()
+    # parse_file_get_pairs()
+    # text = "Feb-2010"
+    # print re.search(r'([A-Za-z]{3})(-)(.+\d)', text).group(1)
+    # text = "S1234"
+    # print re.search(r'(S)(.+\d)', text).group(2)
+    string = "alihuss"
+    length = 2
+    s = set()
+    for i in range(len(string)-length+1):
+        j = i+length
+        s.add(string[i:j])
+    for i in range(len(s)):
+        print s.pop()
 

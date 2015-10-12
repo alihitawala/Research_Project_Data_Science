@@ -18,7 +18,7 @@ class BrandNameList(object):
             brand_name = ''
             for i in range(length-1):
                 brand_name += ' ' + words[i]
-            brand_name = brand_name.strip()
+            brand_name = brand_name.lower().strip()
             freq = words[-1]
             self._map[brand_name] = freq
             self._list.append(brand_name)

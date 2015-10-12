@@ -134,6 +134,6 @@ def unicodeToString(unicode):
     if unicode is None:
         return unicode
     else:
-        return unicode.encode('ascii','ignore')
+        return unicode.encode('ascii','ignore').lower()
 
 parse_file_get_pairs()

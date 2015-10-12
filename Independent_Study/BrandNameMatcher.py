@@ -60,10 +60,10 @@ def matcher():
 
 def populate_results(all_pairs):
     result_file = open(C.results_file_name, 'w+')
-    result_file.write('%-20s %20s %20s %20s %20s %20s %20s\n' % ("Pair_ID", "Product_1_ID", "Product_1_Brand", "Product_2_ID", "Product_2_Brand", "Matcher_Result", "Actual_result"))
+    result_file.write('%-20s %20s %20s %20s %20s\n' % ("Pair_ID", "Product_1_Brand", "Product_2_Brand", "Matcher_Result", "Actual_result"))
     for pair in all_pairs:
         if pair.v is not None and pair.w is not None:
-            result_file.write('%-20s %20s %20s %20s %20s %20s %20s\n' % (pair.pair_id, pair.v.product_id, pair.v.brand, pair.w.product_id, pair.w.brand, str(pair.brand_match), str(pair.is_match)))
+            result_file.write('%-20s %20s %20s %20s %20s\n' % (pair.pair_id, pair.v.brand, pair.w.brand, str(pair.brand_match), str(pair.is_match)))
     result_file.close()
 
 matcher()
