@@ -1,325 +1,325 @@
-Pair_ID                      Product_1_ID      Product_1_Brand         Product_2_ID      Product_2_Brand       Matcher_Result        Actual_result
-4217002-4217002#eBags              4217002               Targus        4217002#eBags               Targus                 True                 True
-5347115-5347115#eBags              5347115           Case Logic        5347115#eBags           Case Logic                 True                 True
-8245516-8245516#eBags              8245516               Targus        8245516#eBags               Targus                 True                 True
-8586825-8586825#eBags              8586825               Targus        8586825#eBags               Targus                 True                 True
-9193948-9193948#eBags              9193948            ATV Logic        9193948#eBags            ATV Logic                 True                 True
-3377768-3377768#eBags              3377768          Mobile Edge        3377768#eBags          Mobile Edge                 True                 True
-4217014-4217014#eBags              4217014               Targus        4217014#eBags               Targus                 True                 True
-9447294-9447294#eBags              9447294          Mobile Edge        9447294#eBags          Mobile Edge                 True                 True
-3356833-3356833#eBags              3356833               Targus        3356833#eBags               Targus                 True                 True
-3377763-3377763#eBags              3377763          Mobile Edge        3377763#eBags          Mobile Edge                 True                 True
-3377767-3377767#eBags              3377767          Mobile Edge        3377767#eBags          Mobile Edge                 True                 True
-3356835-3356835#eBags              3356835               Targus        3356835#eBags               Targus                 True                 True
-8586819-8586819#eBags              8586819               Targus        8586819#eBags               Targus                 True                 True
-9225287-9225287#eBags              9225287          Mobile Edge        9225287#eBags          Mobile Edge                 True                 True
-9225291-9225291#eBags              9225291          Mobile Edge        9225291#eBags          Mobile Edge                 True                 True
-8586826-8586826#eBags              8586826               Targus        8586826#eBags               Targus                 True                 True
-9225276-9225276#eBags              9225276          Mobile Edge        9225276#eBags          Mobile Edge                 True                 True
-4805973-4805973#eBags              4805973           Case Logic        4805973#eBags           Case Logic                 True                 True
-9225280-9225280#eBags              9225280          Mobile Edge        9225280#eBags          Mobile Edge                 True                 True
-9225292-9225292#eBags              9225292          Mobile Edge        9225292#eBags          Mobile Edge                 True                 True
-4216995-4216995#eBags              4216995               Targus        4216995#eBags               Targus                 True                 True
-9875796-9875796#eBags              9875796           Case Logic        9875796#eBags           Case Logic                 True                 True
-9225273-9225273#eBags              9225273          Mobile Edge        9225273#eBags          Mobile Edge                 True                 True
-9225293-9225293#eBags              9225293          Mobile Edge        9225293#eBags          Mobile Edge                 True                 True
-3356836-3356836#eBags              3356836           Kensington        3356836#eBags           Kensington                 True                 True
-3371668-3371668#eBags              3371668           Case Logic        3371668#eBags           Case Logic                 True                 True
-4217000-4217000#eBags              4217000               Targus        4217000#eBags               Targus                 True                 True
-8586822-8586822#eBags              8586822               Targus        8586822#eBags               Targus                 True                 True
-9225274-9225274#eBags              9225274          Mobile Edge        9225274#eBags          Mobile Edge                 True                 True
-4217003-4217003#eBags              4217003               Targus        4217003#eBags               Targus                 True                 True
-9225275-9225275#eBags              9225275          Mobile Edge        9225275#eBags          Mobile Edge                 True                 True
-3985006-3985006#eBags              3985006          Mobile Edge        3985006#eBags          Mobile Edge                 True                 True
-3356838-3356838#eBags              3356838           Kensington        3356838#eBags           Kensington                 True                 True
-5996481-5996481#eBags              5996481           Case Logic        5996481#eBags           Case Logic                 True                 True
-5996470-5996470#eBags              5996470           Case Logic        5996470#eBags           Case Logic                 True                 True
-9863777-9863777#eBags              9863777           Case Logic        9863777#eBags           Case Logic                 True                 True
-9225288-9225288#eBags              9225288          Mobile Edge        9225288#eBags          Mobile Edge                 True                 True
-3356840-3356840#eBags              3356840               Targus        3356840#eBags               Targus                 True                 True
-9208106-9208106#eBags              9208106                   HP        9208106#eBags               Targus                False                 True
-9225277-9225277#eBags              9225277          Mobile Edge        9225277#eBags          Mobile Edge                 True                 True
-9722003-9722003#eBags              9722003          Able Planet        9722003#eBags          Able Planet                 True                 True
-10073803-10073803#eBags             10073803                 Solo       10073803#eBags                 Solo                 True                 True
-10910315-10910315#eBags             10910315          Mobile Edge       10910315#eBags          Mobile Edge                 True                 True
-11068335-11068335#eBags             11068335          McKlein USA       11068335#eBags          McKlein USA                 True                 True
-11082496-11082496#eBags             11082496               Targus       11082496#eBags               Targus                 True                 True
-11084238-11084238#eBags             11084238         Wicked Audio       11084238#eBags         Wicked Audio                 True                 True
-11988059-11988059#eBags             11988059          Mobile Edge       11988059#eBags                 Sumo                False                 True
-11988076-11988076#eBags             11988076               Targus       11988076#eBags               Targus                 True                 True
-11997515-11997515#eBags             11997515        Higher Ground       11997515#eBags        Higher Ground                 True                 True
-12180028-12180028#eBags             12180028     Designer Sleeves       12180028#eBags     Designer Sleeves                 True                 True
-12180070-12180070#eBags             12180070     Designer Sleeves       12180070#eBags     Designer Sleeves                 True                 True
-12180103-12180103#eBags             12180103     Designer Sleeves       12180103#eBags     Designer Sleeves                 True                 True
-12181608-12181608#eBags             12181608          McKlein USA       12181608#eBags          McKlein USA                 True                 True
-12181609-12181609#eBags             12181609          McKlein USA       12181609#eBags          McKlein USA                 True                 True
-12181620-12181620#eBags             12181620              Mcklein       12181620#eBags          McKlein USA                False                 True
-12181700-12181700#eBags             12181700     David King & Co.       12181700#eBags     David King & Co.                 True                 True
-12181705-12181705#eBags             12181705     David King & Co.       12181705#eBags     David King & Co.                 True                 True
-12182239-12182239#eBags             12182239          Mobile Edge       12182239#eBags          Mobile Edge                 True                 True
-12182374-12182374#eBags             12182374       Lewis N. Clark       12182374#eBags       Lewis N. Clark                 True                 True
-12182400-12182400#eBags             12182400           Case Logic       12182400#eBags           Case Logic                 True                 True
-12182846-12182846#eBags             12182846               Sumdex       12182846#eBags               Sumdex                 True                 True
-12183204-12183204#eBags             12183204          Mobile Edge       12183204#eBags          Mobile Edge                 True                 True
-932031-932031#Limited Goods               932031               Belkin 932031#Limited Goods                                     False                 True
-1234894-1234894#Limited Goods              1234894                Canon 1234894#Limited Goods                                     False                 True
-3756896-3756896#Limited Goods              3756896               Belkin 3756896#Limited Goods                                     False                 True
-4025874-4025874#Limited Goods              4025874            Microsoft 4025874#Limited Goods            Microsoft                 True                 True
-7754443-7754443#Limited Goods              7754443               Maxell 7754443#Limited Goods                                     False                 True
-9189660-9189660#Limited Goods              9189660           Discwasher 9189660#Limited Goods           Discwasher                 True                 True
-9225261-9225261#Limited Goods              9225261 American Power Conversion 9225261#Limited Goods American Power Conversion                 True                 True
-9871188-9871188#Limited Goods              9871188            Energizer 9871188#Limited Goods                                     False                 True
-12184525-12184525#eBags             12184525              Netpack       12184525#eBags              Netpack                 True                 True
-12184565-12184565#eBags             12184565              Netpack       12184565#eBags              Netpack                 True                 True
-872051-872051#ivgStores               872051             Eveready     872051#ivgStores                                     False                 True
-2585639-2585639#ivgStores              2585639              Lexmark    2585639#ivgStores              Lexmark                 True                 True
-3387612-3387612#ivgStores              3387612              Lexmark    3387612#ivgStores              Lexmark                 True                 True
-3576485-3576485#ivgStores              3576485              Lexmark    3576485#ivgStores              Lexmark                 True                 True
-12186203-12186203#eBags             12186203     Designer Sleeves       12186203#eBags     Designer Sleeves                 True                 True
-12186211-12186211#eBags             12186211     Designer Sleeves       12186211#eBags     Designer Sleeves                 True                 True
-12186335-12186335#eBags             12186335           Case Logic       12186335#eBags           Case Logic                 True                 True
-4664464-4664464#ivgStores              4664464                Canon    4664464#ivgStores                                     False                 True
-5723587-5723587#ivgStores              5723587               Belkin    5723587#ivgStores               Belkin                 True                 True
-12187451-12187451#eBags             12187451          Mobile Edge       12187451#eBags          Mobile Edge                 True                 True
-12187705-12187705#eBags             12187705     Designer Sleeves       12187705#eBags     Designer Sleeves                 True                 True
-12187816-12187816#eBags             12187816     Designer Sleeves       12187816#eBags     Designer Sleeves                 True                 True
-12187871-12187871#eBags             12187871     Designer Sleeves       12187871#eBags     Designer Sleeves                 True                 True
-12342530-12342530#eBags             12342530        Royce Leather       12342530#eBags        Royce Leather                 True                 True
-12343007-12343007#eBags             12343007     Designer Sleeves       12343007#eBags     Designer Sleeves                 True                 True
-12343021-12343021#eBags             12343021     Designer Sleeves       12343021#eBags     Designer Sleeves                 True                 True
-9225253-9225253#ivgStores              9225253                  APC    9225253#ivgStores                  APC                 True                 True
-2445355-2445355#ivgStores              2445355            Energizer    2445355#ivgStores            Energizer                 True                 True
-2585638-2585638#ivgStores              2585638              Lexmark    2585638#ivgStores              Lexmark                 True                 True
-2685981-2685981#ivgStores              2685981              Lexmark    2685981#ivgStores              Lexmark                 True                 True
-17771102-17771102#Babyhaven             17771102              Kids II   17771102#Babyhaven        Bright Starts                False                 True
-12360588-12360588#eBags             12360588             Travelon       12360588#eBags             Travelon                 True                 True
-12361423-12361423#eBags             12361423              MacCase       12361423#eBags              MacCase                 True                 True
-7964947-7964947#ivgStores              7964947            dreamGEAR    7964947#ivgStores                                     False                 True
-7964948-7964948#ivgStores              7964948            dreamGEAR    7964948#ivgStores                                     False                 True
-12444923-12444923#eBags             12444923              Aquapac       12444923#eBags              Aquapac                 True                 True
-1233539-1233539#ivgStores              1233539    Cobra Electronics    1233539#ivgStores                                     False                 True
-2160472-2160472#ivgStores              2160472              Brother    2160472#ivgStores Brother International                False                 True
-12509863-12509863#eBags             12509863              Caribee       12509863#eBags              Caribee                 True                 True
-2470635-2470635#ivgStores              2470635               IOGEAR    2470635#ivgStores                                     False                 True
-2470642-2470642#ivgStores              2470642               Belkin    2470642#ivgStores               Belkin                 True                 True
-2585627-2585627#ivgStores              2585627              Lexmark    2585627#ivgStores              Lexmark                 True                 True
-12528315-12528315#eBags             12528315             Kena Kai       12528315#eBags             Kena Kai                 True                 True
-3321417-3321417#ivgStores              3321417               Garmin    3321417#ivgStores               Garmin                 True                 True
-29829040-29829040#Perf-Moto             29829040                        29829040#Perf-Moto                                      True                 True
-12548329-12548329#eBags             12548329           Leatherbay       12548329#eBags           Leatherbay                 True                 True
-15010243-15010243#Babyhaven             15010243         Parent Units   15010243#Babyhaven         Parent Units                 True                 True
-13045149-13045149#eBags             13045149                 Solo       13045149#eBags                 Solo                 True                 True
-13050315-13050315#eBags             13050315               Sumdex       13050315#eBags               Sumdex                 True                 True
-8154370-8154370#ivgStores              8154370               Garmin    8154370#ivgStores                                     False                 True
-13219542-13219542#eBags             13219542               Targus       13219542#eBags               Targus                 True                 True
-13219580-13219580#eBags             13219580               Targus       13219580#eBags               Targus                 True                 True
-13219589-13219589#eBags             13219589               Targus       13219589#eBags               Targus                 True                 True
-13219595-13219595#eBags             13219595               Targus       13219595#eBags               Targus                 True                 True
-9893700-9893700#ivgStores              9893700          BIC VENTURI    9893700#ivgStores          BIC America                False                 True
-13241061-13241061#eBags             13241061     Le Donne Leather       13241061#eBags      LeDonne Leather                False                 True
-1233548-1233548#ivgStores              1233548    Cobra Electronics    1233548#ivgStores                                     False                 True
-13246663-13246663#eBags             13246663     Le Donne Leather       13246663#eBags      LeDonne Leather                False                 True
-13246664-13246664#eBags             13246664     Le Donne Leather       13246664#eBags      LeDonne Leather                False                 True
-13248342-13248342#eBags             13248342        Royce Leather       13248342#eBags        Royce Leather                 True                 True
-13252811-13252811#eBags             13252811           Case Logic       13252811#eBags           Case Logic                 True                 True
-13730097-13730097#eBags             13730097         Team ProMark       13730097#eBags         Team ProMark                 True                 True
-13730100-13730100#eBags             13730100         Team ProMark       13730100#eBags         Team ProMark                 True                 True
-13812840-13812840#eBags             13812840                eBags       13812840#eBags                eBags                 True                 True
-5934005-5934005#ivgStores              5934005              Keyspan    5934005#ivgStores           Tripp Lite                False                 True
-13983018-13983018#eBags             13983018              Netpack       13983018#eBags              Netpack                 True                 True
-8111422-8111422#ivgStores              8111422             Eveready    8111422#ivgStores            Energizer                False                 True
-8144079-8144079#ivgStores              8144079           Bracketron    8144079#ivgStores           Bracketron                 True                 True
-14118875-14118875#eBags             14118875           Case Logic       14118875#eBags           Case Logic                 True                 True
-8144086-8144086#ivgStores              8144086           Bracketron    8144086#ivgStores           Bracketron                 True                 True
-14178205-14178205#eBags             14178205        FranklinCovey       14178205#eBags        FranklinCovey                 True                 True
-14313307-14313307#eBags             14313307          Mobile Edge       14313307#eBags          Mobile Edge                 True                 True
-14574778-14574778#eBags             14574778     Designer Sleeves       14574778#eBags     Designer Sleeves                 True                 True
-14644597-14644597#eBags             14644597         Wicked Audio       14644597#eBags         Wicked Audio                 True                 True
-932034-932034#ivgStores               932034               Belkin     932034#ivgStores               Belkin                 True                 True
-2470128-2470128#ivgStores              2470128                  APC    2470128#ivgStores                  APC                 True                 True
-14664902-14664902#eBags             14664902     Shoreline Marine       14664902#eBags            Shoreline                False                 True
-3576486-3576486#ivgStores              3576486              Lexmark    3576486#ivgStores              Lexmark                 True                 True
-3630474-3630474#ivgStores              3630474              Lexmark    3630474#ivgStores              Lexmark                 True                 True
-14967560-14967560#eBags             14967560               Protec       14967560#eBags               Protec                 True                 True
-14978725-14978725#eBags             14978725               Targus       14978725#eBags               Targus                 True                 True
-15040735-15040735#eBags             15040735     Designer Sleeves       15040735#eBags     Designer Sleeves                 True                 True
-15040761-15040761#eBags             15040761           Case Logic       15040761#eBags           Case Logic                 True                 True
-15042368-15042368#eBags             15042368           Miquelrius       15042368#eBags           Miquelrius                 True                 True
-15042380-15042380#eBags             15042380     Designer Sleeves       15042380#eBags     Designer Sleeves                 True                 True
-15062939-15062939#eBags             15062939              MacCase       15062939#eBags              MacCase                 True                 True
-5799655-5799655#ivgStores              5799655              Lexmark    5799655#ivgStores              Lexmark                 True                 True
-15062963-15062963#eBags             15062963              MacCase       15062963#eBags              MacCase                 True                 True
-15111419-15111419#eBags             15111419               Wenzel       15111419#eBags               Wenzel                 True                 True
-15172512-15172512#eBags             15172512               Targus       15172512#eBags               Targus                 True                 True
-8136492-8136492#ivgStores              8136492                Canon    8136492#ivgStores                Canon                 True                 True
-15406802-15406802#eBags             15406802               Targus       15406802#eBags               Targus                 True                 True
-15421546-15421546#eBags             15421546          Mobile Edge       15421546#eBags          Mobile Edge                 True                 True
-15522312-15522312#eBags             15522312                Three       15522312#eBags                Three                 True                 True
-15524252-15524252#eBags             15524252             Travelon       15524252#eBags             Travelon                 True                 True
-15524257-15524257#eBags             15524257             Travelon       15524257#eBags             Travelon                 True                 True
-15525124-15525124#eBags             15525124     Designer Sleeves       15525124#eBags     Designer Sleeves                 True                 True
-9907221-9907221#ivgStores              9907221        Designs to Go    9907221#ivgStores Convenience Concepts                False                 True
-15525125-15525125#eBags             15525125     Designer Sleeves       15525125#eBags     Designer Sleeves                 True                 True
-9919109-9919109#ivgStores              9919109              Sangean    9919109#ivgStores              Sangean                 True                 True
-20565753-16225385#eBags             20565753         Trident Case       16225385#eBags         Trident Case                 True                False
-20565735-16225385#eBags             20565735         Trident Case       16225385#eBags         Trident Case                 True                False
-22293444-16225387#eBags             22293444         Trident Case       16225387#eBags         Trident Case                 True                False
-16225385-16225387#eBags             16225385         Trident Case       16225387#eBags         Trident Case                 True                False
-16225401-16225402#eBags             16225401         Trident Case       16225402#eBags         Trident Case                 True                False
-16225399-16225402#eBags             16225399         Trident Case       16225402#eBags         Trident Case                 True                False
-16225398-16225402#eBags             16225398              Trident       16225402#eBags         Trident Case                False                False
-23226944-16332622#eBags             23226944           Case Logic       16332622#eBags           Case Logic                 True                False
-16453808-16453823#eBags             16453808              Ice Red       16453823#eBags              Ice Red                 True                False
-16453811-16453823#eBags             16453811              Ice Red       16453823#eBags              Ice Red                 True                False
-16453810-16453823#eBags             16453810              Ice Red       16453823#eBags              Ice Red                 True                False
-12359359-16489720#eBags             12359359              Aquapac       16489720#eBags              Aquapac                 True                False
-16489723-16489720#eBags             16489723              Aquapac       16489720#eBags              Aquapac                 True                False
-16539485-16539484#eBags             16539485              Incipio       16539484#eBags              Incipio                 True                False
-21551929-16539484#eBags             21551929              Incipio       16539484#eBags              Incipio                 True                False
-16539485-16539487#eBags             16539485              Incipio       16539487#eBags              Incipio                 True                False
-16539484-16539487#eBags             16539484              Incipio       16539487#eBags              Incipio                 True                False
-21551929-16539487#eBags             21551929              Incipio       16539487#eBags              Incipio                 True                False
-16783599-16541378#eBags             16783599               Targus       16541378#eBags               Targus                 True                False
-15406795-16541378#eBags             15406795               Targus       16541378#eBags               Targus                 True                False
-20468957-16561013#eBags             20468957           Kensington       16561013#eBags           Kensington                 True                False
-15716948-16561718#eBags             15716948           Case Logic       16561718#eBags           Case Logic                 True                False
-26464252-16561718#eBags             26464252           Case Logic       16561718#eBags           Case Logic                 True                False
-16561940-16561786#eBags             16561940              rooCASE       16561786#eBags              rooCASE                 True                False
-16561712-16561786#eBags             16561712              rooCASE       16561786#eBags              rooCASE                 True                False
-12509680-16561886#eBags             12509680              Casauri       16561886#eBags              Casauri                 True                False
-16561887-16561886#eBags             16561887              Casauri       16561886#eBags              Casauri                 True                False
-12509689-16561886#eBags             12509689              Casauri       16561886#eBags              Casauri                 True                False
-16561684-16561921#eBags             16561684              rooCASE       16561921#eBags              rooCASE                 True                False
-16561683-16561921#eBags             16561683              rooCASE       16561921#eBags              rooCASE                 True                False
-16561688-16561930#eBags             16561688                 Booq       16561930#eBags                 Booq                 True                False
-25205883-16561930#eBags             25205883                 Booq       16561930#eBags                 Booq                 True                False
-16565535-16565536#eBags             16565535               Protec       16565536#eBags               Protec                 True                False
-17654764-16565536#eBags             17654764               Protec       16565536#eBags               Protec                 True                False
-15106130-16621120#eBags             15106130     Travelers Choice       16621120#eBags     Travelers Choice                 True                False
-16539457-16621120#eBags             16539457     Travelers Choice       16621120#eBags     Travelers Choice                 True                False
-30055124-29889954#Perf-Moto             30055124                  Z1r   29889954#Perf-Moto                  Z1r                 True                False
-30238743-29889954#Perf-Moto             30238743                  Z1r   29889954#Perf-Moto                  Z1r                 True                False
-29991101-29889954#Perf-Moto             29991101                  Z1r   29889954#Perf-Moto                  Z1r                 True                False
-12185577-16660110#eBags             12185577                 Solo       16660110#eBags                 Solo                 True                False
-12184468-16660110#eBags             12184468                 Solo       16660110#eBags                 Solo                 True                False
-16660784-16660759#eBags             16660784               JWorld       16660759#eBags              J World                False                False
-16660770-16660759#eBags             16660770               JWorld       16660759#eBags              J World                False                False
-16660784-16660772#eBags             16660784               JWorld       16660772#eBags              J World                False                False
-16660770-16660772#eBags             16660770               JWorld       16660772#eBags              J World                False                False
-16660861-16660778#eBags             16660861               JWorld       16660778#eBags              J World                False                False
-15722382-16660778#eBags             15722382               JWorld       16660778#eBags              J World                False                False
-16792060-16792047#eBags             16792060     Rockland Luggage       16792047#eBags     Rockland Luggage                 True                False
-16946434-16792047#eBags             16946434     Rockland Luggage       16792047#eBags     Rockland Luggage                 True                False
-20552042-16792047#eBags             20552042     Rockland Luggage       16792047#eBags     Rockland Luggage                 True                False
-27512327-16794808#eBags             27512327     Designer Sleeves       16794808#eBags     Designer Sleeves                 True                False
-21128592-16794808#eBags             21128592     Designer Sleeves       16794808#eBags     Designer Sleeves                 True                False
-15525118-16794808#eBags             15525118     Designer Sleeves       16794808#eBags     Designer Sleeves                 True                False
-21128539-16794823#eBags             21128539     Designer Sleeves       16794823#eBags     Designer Sleeves                 True                False
-12186016-16794823#eBags             12186016     Designer Sleeves       16794823#eBags     Designer Sleeves                 True                False
-39639520-39639515#Babyhaven             39639520                KidCo   39639515#Babyhaven                KidCo                 True                False
-42889004-39639515#Babyhaven             42889004                KidCo   39639515#Babyhaven                KidCo                 True                False
-16873979-16873978#eBags             16873979              rooCASE       16873978#eBags              rooCASE                 True                False
-16873738-16873978#eBags             16873738              rooCASE       16873978#eBags              rooCASE                 True                False
-24542106-16874952#eBags             24542106               Sumdex       16874952#eBags               Sumdex                 True                False
-24542107-16874952#eBags             24542107               Sumdex       16874952#eBags               Sumdex                 True                False
-12187138-16874952#eBags             12187138               Sumdex       16874952#eBags               Sumdex                 True                False
-16874965-16874966#eBags             16874965               Sumdex       16874966#eBags               Sumdex                 True                False
-16927127-16927121#eBags             16927127               Targus       16927121#eBags               Targus                 True                False
-16927131-16927121#eBags             16927131               Targus       16927121#eBags               Targus                 True                False
-16927127-16927122#eBags             16927127               Targus       16927122#eBags               Targus                 True                False
-16927128-16927122#eBags             16927128               Targus       16927122#eBags               Targus                 True                False
-16927128-16927126#eBags             16927128               Targus       16927126#eBags               Targus                 True                False
-16927125-16927126#eBags             16927125               Targus       16927126#eBags               Targus                 True                False
-16927129-16927131#eBags             16927129               Targus       16927131#eBags               Targus                 True                False
-16927130-16927131#eBags             16927130               Targus       16927131#eBags               Targus                 True                False
-29372731-16933452#eBags             29372731          Sydney Love       16933452#eBags          Sydney Love                 True                False
-29372730-16933452#eBags             29372730          Sydney Love       16933452#eBags          Sydney Love                 True                False
-20897845-16944283#eBags             20897845              Bellino       16944283#eBags              Bellino                 True                False
-16778253-17032482#eBags             16778253               Targus       17032482#eBags               Targus                 True                False
-29732878-17129605#eBags             29732878              Incipio       17129605#eBags              Incipio                 True                False
-29732874-17129605#eBags             29732874              Incipio       17129605#eBags              Incipio                 True                False
-17129626-17129683#eBags             17129626              Incipio       17129683#eBags              Incipio                 True                False
-17129598-17129683#eBags             17129598              Incipio       17129683#eBags              Incipio                 True                False
-17129658-17129683#eBags             17129658              Incipio       17129683#eBags              Incipio                 True                False
-17510991-17133293#eBags             17510991     Le Donne Leather       17133293#eBags      LeDonne Leather                False                False
-17510956-17133293#eBags             17510956     Le Donne Leather       17133293#eBags      LeDonne Leather                False                False
-17134131-17134132#eBags             17134131              rooCASE       17134132#eBags              rooCASE                 True                False
-16873740-17134132#eBags             16873740              rooCASE       17134132#eBags              rooCASE                 True                False
-17134162-17134137#eBags             17134162              rooCASE       17134137#eBags              rooCASE                 True                False
-17134135-17134137#eBags             17134135              rooCASE       17134137#eBags              rooCASE                 True                False
-17134161-17134137#eBags             17134161              rooCASE       17134137#eBags              rooCASE                 True                False
-17134145-17134144#eBags             17134145              rooCASE       17134144#eBags              rooCASE                 True                False
-17211252-17134144#eBags             17211252              rooCASE       17134144#eBags              rooCASE                 True                False
-17211176-17134166#eBags             17211176              rooCASE       17134166#eBags              rooCASE                 True                False
-17212352-17134166#eBags             17212352              rooCASE       17134166#eBags              rooCASE                 True                False
-17212351-17134166#eBags             17212351              rooCASE       17134166#eBags              rooCASE                 True                False
-17211225-17211249#eBags             17211225              rooCASE       17211249#eBags              rooCASE                 True                False
-17211248-17211249#eBags             17211248              rooCASE       17211249#eBags              rooCASE                 True                False
-17134162-17211249#eBags             17134162              rooCASE       17211249#eBags              rooCASE                 True                False
-17277021-17277012#eBags             17277021             Frommers       17277012#eBags             Frommers                 True                False
-17277014-17277012#eBags             17277014             Frommers       17277012#eBags             Frommers                 True                False
-39505613-39505611#Babyhaven             39505613             Squooshi   39505611#Babyhaven             Squooshi                 True                False
-24633722-39505611#Babyhaven             24633722             Squooshi   39505611#Babyhaven             Squooshi                 True                False
-17787030-17323887#eBags             17787030           Case Logic       17323887#eBags           Case Logic                 True                False
-34240989-17323887#eBags             34240989           Case Logic       17323887#eBags           Case Logic                 True                False
-16480768-17323887#eBags             16480768           Case Logic       17323887#eBags           Case Logic                 True                False
-17395950-17395941#eBags             17395950          McKlein USA       17395941#eBags          McKlein USA                 True                False
-21889921-17395941#eBags             21889921          McKlein USA       17395941#eBags          McKlein USA                 True                False
-17395923-17395975#eBags             17395923          McKlein USA       17395975#eBags          McKlein USA                 True                False
-17395981-17395975#eBags             17395981          McKlein USA       17395975#eBags          McKlein USA                 True                False
-31420666-14915802#ivgStores             31420666               Kantek   14915802#ivgStores               Kantek                 True                False
-41099843-14915802#ivgStores             41099843               Kantek   14915802#ivgStores               Kantek                 True                False
-40177097-14915802#ivgStores             40177097               Kantek   14915802#ivgStores               Kantek                 True                False
-17449845-17449846#eBags             17449845              MacCase       17449846#eBags              MacCase                 True                False
-15063000-17449846#eBags             15063000              MacCase       17449846#eBags              MacCase                 True                False
-33946313-14916415#ivgStores             33946313              Lexmark   14916415#ivgStores              Lexmark                 True                False
-32545299-14916415#ivgStores             32545299              Lexmark   14916415#ivgStores              Lexmark                 True                False
-23134150-14916415#ivgStores             23134150              Lexmark   14916415#ivgStores              Lexmark                 True                False
-34954174-14922530#ivgStores             34954174              Lexmark   14922530#ivgStores              Lexmark                 True                False
-14915870-14922530#ivgStores             14915870              Lexmark   14922530#ivgStores              Lexmark                 True                False
-17654764-17654766#eBags             17654764               Protec       17654766#eBags               Protec                 True                False
-17654765-17654766#eBags             17654765               Protec       17654766#eBags               Protec                 True                False
-17211176-17756892#eBags             17211176              rooCASE       17756892#eBags              rooCASE                 True                False
-17756903-17756892#eBags             17756903              rooCASE       17756892#eBags              rooCASE                 True                False
-17756902-17756892#eBags             17756902              rooCASE       17756892#eBags              rooCASE                 True                False
-29569421-17756998#eBags             29569421                 CODi       17756998#eBags                 CODi                 True                False
-33836735-14927489#ivgStores             33836735                  OKI   14927489#ivgStores             OKI Data                False                False
-32511770-14927489#ivgStores             32511770                  OKI   14927489#ivgStores             OKI Data                False                False
-17811941-17811940#eBags             17811941               Nestle       17811940#eBags               Nestle                 True                False
-32111839-14927489#ivgStores             32111839                  OKI   14927489#ivgStores             OKI Data                False                False
-15570486-17811940#eBags             15570486                Nestl       17811940#eBags               Nestle                False                False
-33836735-14927495#ivgStores             33836735                  OKI   14927495#ivgStores             OKI Data                False                False
-32511770-14927495#ivgStores             32511770                  OKI   14927495#ivgStores             OKI Data                False                False
-12183408-17811959#eBags             12183408     Designer Sleeves       17811959#eBags     Designer Sleeves                 True                False
-12183403-17811959#eBags             12183403     Designer Sleeves       17811959#eBags     Designer Sleeves                 True                False
-16914020-17811959#eBags             16914020     Designer Sleeves       17811959#eBags     Designer Sleeves                 True                False
-23140292-14928628#ivgStores             23140292                  OKI   14928628#ivgStores             OKI Data                False                False
-23140549-14928628#ivgStores             23140549                  OKI   14928628#ivgStores             OKI Data                False                False
-13044365-14931223#ivgStores             13044365                   3M   14931223#ivgStores                                     False                False
-13044363-14931223#ivgStores             13044363                   3M   14931223#ivgStores                                     False                False
-14935224-14931223#ivgStores             14935224                   3M   14931223#ivgStores                                     False                False
-40182247-15048429#ivgStores             40182247                        15048429#ivgStores       Audio Technica                False                False
-31156176-15066078#ivgStores             31156176              Lexmark   15066078#ivgStores              Lexmark                 True                False
-31424213-15066078#ivgStores             31424213              Lexmark   15066078#ivgStores              Lexmark                 True                False
-19316104-19316103#eBags             19316104               Sumdex       19316103#eBags               Sumdex                 True                False
-19316077-19316103#eBags             19316077               Sumdex       19316103#eBags               Sumdex                 True                False
-11980358-15135097#ivgStores             11980358               Garmin   15135097#ivgStores                                     False                False
-8154370-15135097#ivgStores              8154370               Garmin   15135097#ivgStores                                     False                False
-21296718-19426181#eBags             21296718               Targus       19426181#eBags               Targus                 True                False
-15846619-19426181#eBags             15846619               Targus       19426181#eBags               Targus                 True                False
-40212020-19426181#eBags             40212020               Targus       19426181#eBags               Targus                 True                False
-20849252-15200080#ivgStores             20849252               Centon   15200080#ivgStores                                     False                False
-20847587-15200080#ivgStores             20847587               Centon   15200080#ivgStores                                     False                False
-20847566-15200080#ivgStores             20847566               Centon   15200080#ivgStores                                     False                False
-19480534-19480533#eBags             19480534              rooCASE       19480533#eBags              rooCASE                 True                False
-29969257-29968971#Perf-Moto             29969257                  Z1r   29968971#Perf-Moto                  Z1r                 True                False
-19480532-19480533#eBags             19480532              rooCASE       19480533#eBags              rooCASE                 True                False
-19480536-19480535#eBags             19480536              rooCASE       19480535#eBags              rooCASE                 True                False
-19480538-19480535#eBags             19480538              rooCASE       19480535#eBags              rooCASE                 True                False
-19480535-19480536#eBags             19480535              rooCASE       19480536#eBags              rooCASE                 True                False
-19480538-19480536#eBags             19480538              rooCASE       19480536#eBags              rooCASE                 True                False
-20970720-19486615#eBags             20970720             Ed Hardy       19486615#eBags             Ed Hardy                 True                False
-19486712-19486715#eBags             19486712               Murval       19486715#eBags               Murval                 True                False
-19486714-19486715#eBags             19486714               Murval       19486715#eBags               Murval                 True                False
-19486997-19486743#eBags             19486997           Looptworks       19486743#eBags           Looptworks                 True                False
-22214525-19486743#eBags             22214525           Looptworks       19486743#eBags           Looptworks                 True                False
+Pair_ID                   Product_1_Brand      Product_2_Brand       Matcher_Result        Actual_result
+4217002-4217002#eBags               targus               targus                    Y                 True
+5347115-5347115#eBags           case logic           case logic                    Y                 True
+8245516-8245516#eBags               targus               targus                    Y                 True
+8586825-8586825#eBags               targus               targus                    Y                 True
+9193948-9193948#eBags            atv logic            atv logic                    Y                 True
+3377768-3377768#eBags          mobile edge          mobile edge                    Y                 True
+4217014-4217014#eBags               targus               targus                    Y                 True
+9447294-9447294#eBags          mobile edge          mobile edge                    Y                 True
+3356833-3356833#eBags               targus               targus                    Y                 True
+3377763-3377763#eBags          mobile edge          mobile edge                    Y                 True
+3377767-3377767#eBags          mobile edge          mobile edge                    Y                 True
+3356835-3356835#eBags               targus               targus                    Y                 True
+8586819-8586819#eBags               targus               targus                    Y                 True
+9225287-9225287#eBags          mobile edge          mobile edge                    Y                 True
+9225291-9225291#eBags          mobile edge          mobile edge                    Y                 True
+8586826-8586826#eBags               targus               targus                    Y                 True
+9225276-9225276#eBags          mobile edge          mobile edge                    Y                 True
+4805973-4805973#eBags           case logic           case logic                    Y                 True
+9225280-9225280#eBags          mobile edge          mobile edge                    Y                 True
+9225292-9225292#eBags          mobile edge          mobile edge                    Y                 True
+4216995-4216995#eBags               targus               targus                    Y                 True
+9875796-9875796#eBags           case logic           case logic                    Y                 True
+9225273-9225273#eBags          mobile edge          mobile edge                    Y                 True
+9225293-9225293#eBags          mobile edge          mobile edge                    Y                 True
+3356836-3356836#eBags           kensington           kensington                    Y                 True
+3371668-3371668#eBags           case logic           case logic                    Y                 True
+4217000-4217000#eBags               targus               targus                    Y                 True
+8586822-8586822#eBags               targus               targus                    Y                 True
+9225274-9225274#eBags          mobile edge          mobile edge                    Y                 True
+4217003-4217003#eBags               targus               targus                    Y                 True
+9225275-9225275#eBags          mobile edge          mobile edge                    Y                 True
+3985006-3985006#eBags          mobile edge          mobile edge                    Y                 True
+3356838-3356838#eBags           kensington           kensington                    Y                 True
+5996481-5996481#eBags           case logic           case logic                    Y                 True
+5996470-5996470#eBags           case logic           case logic                    Y                 True
+9863777-9863777#eBags           case logic           case logic                    Y                 True
+9225288-9225288#eBags          mobile edge          mobile edge                    Y                 True
+3356840-3356840#eBags               targus               targus                    Y                 True
+9208106-9208106#eBags                   hp               targus                    Y                 True
+9225277-9225277#eBags          mobile edge          mobile edge                    Y                 True
+9722003-9722003#eBags          able planet          able planet                    Y                 True
+10073803-10073803#eBags                 solo                 solo                    Y                 True
+10910315-10910315#eBags          mobile edge          mobile edge                    Y                 True
+11068335-11068335#eBags          mcklein usa          mcklein usa                    Y                 True
+11082496-11082496#eBags               targus               targus                    Y                 True
+11084238-11084238#eBags         wicked audio         wicked audio                    Y                 True
+11988059-11988059#eBags          mobile edge                 sumo                    Y                 True
+11988076-11988076#eBags               targus               targus                    Y                 True
+11997515-11997515#eBags        higher ground        higher ground                    Y                 True
+12180028-12180028#eBags     designer sleeves     designer sleeves                    Y                 True
+12180070-12180070#eBags     designer sleeves     designer sleeves                    Y                 True
+12180103-12180103#eBags     designer sleeves     designer sleeves                    Y                 True
+12181608-12181608#eBags          mcklein usa          mcklein usa                    Y                 True
+12181609-12181609#eBags          mcklein usa          mcklein usa                    Y                 True
+12181620-12181620#eBags              mcklein          mcklein usa                    D                 True
+12181700-12181700#eBags     david king & co.     david king & co.                    Y                 True
+12181705-12181705#eBags     david king & co.     david king & co.                    Y                 True
+12182239-12182239#eBags          mobile edge          mobile edge                    Y                 True
+12182374-12182374#eBags       lewis n. clark       lewis n. clark                    Y                 True
+12182400-12182400#eBags           case logic           case logic                    Y                 True
+12182846-12182846#eBags               sumdex               sumdex                    Y                 True
+12183204-12183204#eBags          mobile edge          mobile edge                    Y                 True
+932031-932031#Limited Goods               belkin                                         Y                 True
+1234894-1234894#Limited Goods                canon                                         Y                 True
+3756896-3756896#Limited Goods               belkin                                         Y                 True
+4025874-4025874#Limited Goods            microsoft            microsoft                    Y                 True
+7754443-7754443#Limited Goods               maxell                                         Y                 True
+9189660-9189660#Limited Goods           discwasher           discwasher                    Y                 True
+9225261-9225261#Limited Goods american power conversion american power conversion                    Y                 True
+9871188-9871188#Limited Goods            energizer                                         Y                 True
+12184525-12184525#eBags              netpack              netpack                    Y                 True
+12184565-12184565#eBags              netpack              netpack                    Y                 True
+872051-872051#ivgStores             eveready                                         Y                 True
+2585639-2585639#ivgStores              lexmark              lexmark                    Y                 True
+3387612-3387612#ivgStores              lexmark              lexmark                    Y                 True
+3576485-3576485#ivgStores              lexmark              lexmark                    Y                 True
+12186203-12186203#eBags     designer sleeves     designer sleeves                    Y                 True
+12186211-12186211#eBags     designer sleeves     designer sleeves                    Y                 True
+12186335-12186335#eBags           case logic           case logic                    Y                 True
+4664464-4664464#ivgStores                canon                                         Y                 True
+5723587-5723587#ivgStores               belkin               belkin                    Y                 True
+12187451-12187451#eBags          mobile edge          mobile edge                    Y                 True
+12187705-12187705#eBags     designer sleeves     designer sleeves                    Y                 True
+12187816-12187816#eBags     designer sleeves     designer sleeves                    Y                 True
+12187871-12187871#eBags     designer sleeves     designer sleeves                    Y                 True
+12342530-12342530#eBags        royce leather        royce leather                    Y                 True
+12343007-12343007#eBags     designer sleeves     designer sleeves                    Y                 True
+12343021-12343021#eBags     designer sleeves     designer sleeves                    Y                 True
+9225253-9225253#ivgStores                  apc                  apc                    Y                 True
+2445355-2445355#ivgStores            energizer            energizer                    Y                 True
+2585638-2585638#ivgStores              lexmark              lexmark                    Y                 True
+2685981-2685981#ivgStores              lexmark              lexmark                    Y                 True
+17771102-17771102#Babyhaven              kids ii        bright starts                    N                 True
+12360588-12360588#eBags             travelon             travelon                    Y                 True
+12361423-12361423#eBags              maccase              maccase                    Y                 True
+7964947-7964947#ivgStores            dreamgear                                         Y                 True
+7964948-7964948#ivgStores            dreamgear                                         Y                 True
+12444923-12444923#eBags              aquapac              aquapac                    Y                 True
+1233539-1233539#ivgStores    cobra electronics                                         Y                 True
+2160472-2160472#ivgStores              brother brother international                    Y                 True
+12509863-12509863#eBags              caribee              caribee                    Y                 True
+2470635-2470635#ivgStores               iogear                                         Y                 True
+2470642-2470642#ivgStores               belkin               belkin                    Y                 True
+2585627-2585627#ivgStores              lexmark              lexmark                    Y                 True
+12528315-12528315#eBags             kena kai             kena kai                    Y                 True
+3321417-3321417#ivgStores               garmin               garmin                    Y                 True
+29829040-29829040#Perf-Moto                                                              Y                 True
+12548329-12548329#eBags           leatherbay           leatherbay                    Y                 True
+15010243-15010243#Babyhaven         parent units         parent units                    Y                 True
+13045149-13045149#eBags                 solo                 solo                    Y                 True
+13050315-13050315#eBags               sumdex               sumdex                    Y                 True
+8154370-8154370#ivgStores               garmin                                         Y                 True
+13219542-13219542#eBags               targus               targus                    Y                 True
+13219580-13219580#eBags               targus               targus                    Y                 True
+13219589-13219589#eBags               targus               targus                    Y                 True
+13219595-13219595#eBags               targus               targus                    Y                 True
+9893700-9893700#ivgStores          bic venturi          bic america                    Y                 True
+13241061-13241061#eBags     le donne leather      ledonne leather                    Y                 True
+1233548-1233548#ivgStores    cobra electronics                                         Y                 True
+13246663-13246663#eBags     le donne leather      ledonne leather                    Y                 True
+13246664-13246664#eBags     le donne leather      ledonne leather                    Y                 True
+13248342-13248342#eBags        royce leather        royce leather                    Y                 True
+13252811-13252811#eBags           case logic           case logic                    Y                 True
+13730097-13730097#eBags         team promark         team promark                    Y                 True
+13730100-13730100#eBags         team promark         team promark                    Y                 True
+13812840-13812840#eBags                ebags                ebags                    Y                 True
+5934005-5934005#ivgStores              keyspan           tripp lite                    D                 True
+13983018-13983018#eBags              netpack              netpack                    Y                 True
+8111422-8111422#ivgStores             eveready            energizer                    Y                 True
+8144079-8144079#ivgStores           bracketron           bracketron                    Y                 True
+14118875-14118875#eBags           case logic           case logic                    Y                 True
+8144086-8144086#ivgStores           bracketron           bracketron                    Y                 True
+14178205-14178205#eBags        franklincovey        franklincovey                    Y                 True
+14313307-14313307#eBags          mobile edge          mobile edge                    Y                 True
+14574778-14574778#eBags     designer sleeves     designer sleeves                    Y                 True
+14644597-14644597#eBags         wicked audio         wicked audio                    Y                 True
+932034-932034#ivgStores               belkin               belkin                    Y                 True
+2470128-2470128#ivgStores                  apc                  apc                    Y                 True
+14664902-14664902#eBags     shoreline marine            shoreline                    Y                 True
+3576486-3576486#ivgStores              lexmark              lexmark                    Y                 True
+3630474-3630474#ivgStores              lexmark              lexmark                    Y                 True
+14967560-14967560#eBags               protec               protec                    Y                 True
+14978725-14978725#eBags               targus               targus                    Y                 True
+15040735-15040735#eBags     designer sleeves     designer sleeves                    Y                 True
+15040761-15040761#eBags           case logic           case logic                    Y                 True
+15042368-15042368#eBags           miquelrius           miquelrius                    Y                 True
+15042380-15042380#eBags     designer sleeves     designer sleeves                    Y                 True
+15062939-15062939#eBags              maccase              maccase                    Y                 True
+5799655-5799655#ivgStores              lexmark              lexmark                    Y                 True
+15062963-15062963#eBags              maccase              maccase                    Y                 True
+15111419-15111419#eBags               wenzel               wenzel                    Y                 True
+15172512-15172512#eBags               targus               targus                    Y                 True
+8136492-8136492#ivgStores                canon                canon                    Y                 True
+15406802-15406802#eBags               targus               targus                    Y                 True
+15421546-15421546#eBags          mobile edge          mobile edge                    Y                 True
+15522312-15522312#eBags                three                three                    Y                 True
+15524252-15524252#eBags             travelon             travelon                    Y                 True
+15524257-15524257#eBags             travelon             travelon                    Y                 True
+15525124-15525124#eBags     designer sleeves     designer sleeves                    Y                 True
+9907221-9907221#ivgStores        designs to go convenience concepts                    D                 True
+15525125-15525125#eBags     designer sleeves     designer sleeves                    Y                 True
+9919109-9919109#ivgStores              sangean              sangean                    Y                 True
+20565753-16225385#eBags         trident case         trident case                    Y                False
+20565735-16225385#eBags         trident case         trident case                    Y                False
+22293444-16225387#eBags         trident case         trident case                    Y                False
+16225385-16225387#eBags         trident case         trident case                    Y                False
+16225401-16225402#eBags         trident case         trident case                    Y                False
+16225399-16225402#eBags         trident case         trident case                    Y                False
+16225398-16225402#eBags              trident         trident case                    Y                False
+23226944-16332622#eBags           case logic           case logic                    Y                False
+16453808-16453823#eBags              ice red              ice red                    Y                False
+16453811-16453823#eBags              ice red              ice red                    Y                False
+16453810-16453823#eBags              ice red              ice red                    Y                False
+12359359-16489720#eBags              aquapac              aquapac                    Y                False
+16489723-16489720#eBags              aquapac              aquapac                    Y                False
+16539485-16539484#eBags              incipio              incipio                    Y                False
+21551929-16539484#eBags              incipio              incipio                    Y                False
+16539485-16539487#eBags              incipio              incipio                    Y                False
+16539484-16539487#eBags              incipio              incipio                    Y                False
+21551929-16539487#eBags              incipio              incipio                    Y                False
+16783599-16541378#eBags               targus               targus                    Y                False
+15406795-16541378#eBags               targus               targus                    Y                False
+20468957-16561013#eBags           kensington           kensington                    Y                False
+15716948-16561718#eBags           case logic           case logic                    Y                False
+26464252-16561718#eBags           case logic           case logic                    Y                False
+16561940-16561786#eBags              roocase              roocase                    Y                False
+16561712-16561786#eBags              roocase              roocase                    Y                False
+12509680-16561886#eBags              casauri              casauri                    Y                False
+16561887-16561886#eBags              casauri              casauri                    Y                False
+12509689-16561886#eBags              casauri              casauri                    Y                False
+16561684-16561921#eBags              roocase              roocase                    Y                False
+16561683-16561921#eBags              roocase              roocase                    Y                False
+16561688-16561930#eBags                 booq                 booq                    Y                False
+25205883-16561930#eBags                 booq                 booq                    Y                False
+16565535-16565536#eBags               protec               protec                    Y                False
+17654764-16565536#eBags               protec               protec                    Y                False
+15106130-16621120#eBags     travelers choice     travelers choice                    Y                False
+16539457-16621120#eBags     travelers choice     travelers choice                    Y                False
+30055124-29889954#Perf-Moto                  z1r                  z1r                    Y                False
+30238743-29889954#Perf-Moto                  z1r                  z1r                    Y                False
+29991101-29889954#Perf-Moto                  z1r                  z1r                    Y                False
+12185577-16660110#eBags                 solo                 solo                    Y                False
+12184468-16660110#eBags                 solo                 solo                    Y                False
+16660784-16660759#eBags               jworld              j world                    Y                False
+16660770-16660759#eBags               jworld              j world                    Y                False
+16660784-16660772#eBags               jworld              j world                    Y                False
+16660770-16660772#eBags               jworld              j world                    Y                False
+16660861-16660778#eBags               jworld              j world                    Y                False
+15722382-16660778#eBags               jworld              j world                    Y                False
+16792060-16792047#eBags     rockland luggage     rockland luggage                    Y                False
+16946434-16792047#eBags     rockland luggage     rockland luggage                    Y                False
+20552042-16792047#eBags     rockland luggage     rockland luggage                    Y                False
+27512327-16794808#eBags     designer sleeves     designer sleeves                    Y                False
+21128592-16794808#eBags     designer sleeves     designer sleeves                    Y                False
+15525118-16794808#eBags     designer sleeves     designer sleeves                    Y                False
+21128539-16794823#eBags     designer sleeves     designer sleeves                    Y                False
+12186016-16794823#eBags     designer sleeves     designer sleeves                    Y                False
+39639520-39639515#Babyhaven                kidco                kidco                    Y                False
+42889004-39639515#Babyhaven                kidco                kidco                    Y                False
+16873979-16873978#eBags              roocase              roocase                    Y                False
+16873738-16873978#eBags              roocase              roocase                    Y                False
+24542106-16874952#eBags               sumdex               sumdex                    Y                False
+24542107-16874952#eBags               sumdex               sumdex                    Y                False
+12187138-16874952#eBags               sumdex               sumdex                    Y                False
+16874965-16874966#eBags               sumdex               sumdex                    Y                False
+16927127-16927121#eBags               targus               targus                    Y                False
+16927131-16927121#eBags               targus               targus                    Y                False
+16927127-16927122#eBags               targus               targus                    Y                False
+16927128-16927122#eBags               targus               targus                    Y                False
+16927128-16927126#eBags               targus               targus                    Y                False
+16927125-16927126#eBags               targus               targus                    Y                False
+16927129-16927131#eBags               targus               targus                    Y                False
+16927130-16927131#eBags               targus               targus                    Y                False
+29372731-16933452#eBags          sydney love          sydney love                    Y                False
+29372730-16933452#eBags          sydney love          sydney love                    Y                False
+20897845-16944283#eBags              bellino              bellino                    Y                False
+16778253-17032482#eBags               targus               targus                    Y                False
+29732878-17129605#eBags              incipio              incipio                    Y                False
+29732874-17129605#eBags              incipio              incipio                    Y                False
+17129626-17129683#eBags              incipio              incipio                    Y                False
+17129598-17129683#eBags              incipio              incipio                    Y                False
+17129658-17129683#eBags              incipio              incipio                    Y                False
+17510991-17133293#eBags     le donne leather      ledonne leather                    Y                False
+17510956-17133293#eBags     le donne leather      ledonne leather                    Y                False
+17134131-17134132#eBags              roocase              roocase                    Y                False
+16873740-17134132#eBags              roocase              roocase                    Y                False
+17134162-17134137#eBags              roocase              roocase                    Y                False
+17134135-17134137#eBags              roocase              roocase                    Y                False
+17134161-17134137#eBags              roocase              roocase                    Y                False
+17134145-17134144#eBags              roocase              roocase                    Y                False
+17211252-17134144#eBags              roocase              roocase                    Y                False
+17211176-17134166#eBags              roocase              roocase                    Y                False
+17212352-17134166#eBags              roocase              roocase                    Y                False
+17212351-17134166#eBags              roocase              roocase                    Y                False
+17211225-17211249#eBags              roocase              roocase                    Y                False
+17211248-17211249#eBags              roocase              roocase                    Y                False
+17134162-17211249#eBags              roocase              roocase                    Y                False
+17277021-17277012#eBags             frommers             frommers                    Y                False
+17277014-17277012#eBags             frommers             frommers                    Y                False
+39505613-39505611#Babyhaven             squooshi             squooshi                    Y                False
+24633722-39505611#Babyhaven             squooshi             squooshi                    Y                False
+17787030-17323887#eBags           case logic           case logic                    Y                False
+34240989-17323887#eBags           case logic           case logic                    Y                False
+16480768-17323887#eBags           case logic           case logic                    Y                False
+17395950-17395941#eBags          mcklein usa          mcklein usa                    Y                False
+21889921-17395941#eBags          mcklein usa          mcklein usa                    Y                False
+17395923-17395975#eBags          mcklein usa          mcklein usa                    Y                False
+17395981-17395975#eBags          mcklein usa          mcklein usa                    Y                False
+31420666-14915802#ivgStores               kantek               kantek                    Y                False
+41099843-14915802#ivgStores               kantek               kantek                    Y                False
+40177097-14915802#ivgStores               kantek               kantek                    Y                False
+17449845-17449846#eBags              maccase              maccase                    Y                False
+15063000-17449846#eBags              maccase              maccase                    Y                False
+33946313-14916415#ivgStores              lexmark              lexmark                    Y                False
+32545299-14916415#ivgStores              lexmark              lexmark                    Y                False
+23134150-14916415#ivgStores              lexmark              lexmark                    Y                False
+34954174-14922530#ivgStores              lexmark              lexmark                    Y                False
+14915870-14922530#ivgStores              lexmark              lexmark                    Y                False
+17654764-17654766#eBags               protec               protec                    Y                False
+17654765-17654766#eBags               protec               protec                    Y                False
+17211176-17756892#eBags              roocase              roocase                    Y                False
+17756903-17756892#eBags              roocase              roocase                    Y                False
+17756902-17756892#eBags              roocase              roocase                    Y                False
+29569421-17756998#eBags                 codi                 codi                    Y                False
+33836735-14927489#ivgStores                  oki             oki data                    Y                False
+32511770-14927489#ivgStores                  oki             oki data                    Y                False
+17811941-17811940#eBags               nestle               nestle                    Y                False
+32111839-14927489#ivgStores                  oki             oki data                    Y                False
+15570486-17811940#eBags                nestl               nestle                    Y                False
+33836735-14927495#ivgStores                  oki             oki data                    Y                False
+32511770-14927495#ivgStores                  oki             oki data                    Y                False
+12183408-17811959#eBags     designer sleeves     designer sleeves                    Y                False
+12183403-17811959#eBags     designer sleeves     designer sleeves                    Y                False
+16914020-17811959#eBags     designer sleeves     designer sleeves                    Y                False
+23140292-14928628#ivgStores                  oki             oki data                    Y                False
+23140549-14928628#ivgStores                  oki             oki data                    Y                False
+13044365-14931223#ivgStores                   3m                                         Y                False
+13044363-14931223#ivgStores                   3m                                         Y                False
+14935224-14931223#ivgStores                   3m                                         Y                False
+40182247-15048429#ivgStores                            audio technica                    Y                False
+31156176-15066078#ivgStores              lexmark              lexmark                    Y                False
+31424213-15066078#ivgStores              lexmark              lexmark                    Y                False
+19316104-19316103#eBags               sumdex               sumdex                    Y                False
+19316077-19316103#eBags               sumdex               sumdex                    Y                False
+11980358-15135097#ivgStores               garmin                                         N                False
+8154370-15135097#ivgStores               garmin                                         N                False
+21296718-19426181#eBags               targus               targus                    Y                False
+15846619-19426181#eBags               targus               targus                    Y                False
+40212020-19426181#eBags               targus               targus                    Y                False
+20849252-15200080#ivgStores               centon                                         N                False
+20847587-15200080#ivgStores               centon                                         N                False
+20847566-15200080#ivgStores               centon                                         N                False
+19480534-19480533#eBags              roocase              roocase                    Y                False
+29969257-29968971#Perf-Moto                  z1r                  z1r                    Y                False
+19480532-19480533#eBags              roocase              roocase                    Y                False
+19480536-19480535#eBags              roocase              roocase                    Y                False
+19480538-19480535#eBags              roocase              roocase                    Y                False
+19480535-19480536#eBags              roocase              roocase                    Y                False
+19480538-19480536#eBags              roocase              roocase                    Y                False
+20970720-19486615#eBags             ed hardy             ed hardy                    Y                False
+19486712-19486715#eBags               murval               murval                    Y                False
+19486714-19486715#eBags               murval               murval                    Y                False
+19486997-19486743#eBags           looptworks           looptworks                    Y                False
+22214525-19486743#eBags           looptworks           looptworks                    Y                False

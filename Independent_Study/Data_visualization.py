@@ -1,5 +1,6 @@
 __author__ = 'aliHitawala'
 import ProductObjectCreator
+import sys
 
 
 def show_tuple_pairs(p):
@@ -13,4 +14,4 @@ def show_tuple_pairs(p):
         print "Product 1 %-20s %s" % (x, attrs_v[x])
         print "Product 2 %-20s %s" % (x, attrs_w[x])
 
-show_tuple_pairs('29829040-29829040#Perf-Moto')
+show_tuple_pairs('9193948-9193948#eBags')

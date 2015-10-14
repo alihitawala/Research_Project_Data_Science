@@ -7,7 +7,7 @@ class Pair(object):
         self.v = v
         self.w = w
         self.is_match = is_match
-        self.brand_match = False
+        self.brand_match = 'N'
 
     def get_first_product(self):
         return self.v

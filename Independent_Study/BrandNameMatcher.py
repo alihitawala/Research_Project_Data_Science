@@ -15,7 +15,7 @@ brand_list = BrandNameList()
 def match(pair):
     if pair.v is None or pair.w is None:
         logger.warning("Atleast one of the product is not parsed correctly in pair " + pair.pair_id)
-        return False
+        return "N"
     result = Matcher.aggregate_matcher(pair,
         algorithm_pref=[C.matcher_algo_exact_match, C.matcher_algo_part_match,
                         C.matcher_algo_jaccard_match, C.matcher_algo_information_extraction])
@@ -29,8 +29,7 @@ def get_precision(all_pairs):
         tokens = [x.strip() for x in line.split('?')]
         pair_id = tokens.pop(0)
         match = tokens.pop(0)
-        is_match = match == 'Y'
-        pair_list[pair_id] = is_match
+        pair_list[pair_id] = match
     count_matched_correct = 0.0
     count_matched_wrong = 0.0
     for pair in all_pairs:
@@ -39,7 +38,7 @@ def get_precision(all_pairs):
         result_found = pair.brand_match
         if result_actual == result_found:
             count_matched_correct+=1
-        else:
+        elif result_found != 'D':
             count_matched_wrong+=1
             logger.warning("Brand name not matched correctly for pair id : " + pair.pair_id)
     percent = (count_matched_correct/(count_matched_wrong+count_matched_correct))*100
@@ -47,13 +46,20 @@ def get_precision(all_pairs):
 
 def matcher():
     all_pairs = ProductObjectCreator.parse_file_get_pairs()
-    count_matched = 0;
+    count_matched = 0
+    count_d_matched = 0
+    count_total = 0
     for pair in all_pairs:
         is_match = match(pair)
-        if is_match:
-            pair.brand_match = True
+        count_total += 1
+        if is_match == 'Y':
             count_matched+=1
+        if is_match == 'D':
+            count_d_matched+=1
+        pair.brand_match = is_match
     print "Matched : ", count_matched
+    print "Don't know match : ", count_d_matched
+    print "Total pair in consideration", count_total
     populate_results(all_pairs)
     get_precision(all_pairs)
 

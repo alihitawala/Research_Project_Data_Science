@@ -15,6 +15,7 @@ threshold_edit_distance_measure = 0.9
 threshold_dictionary_part_weighted_measure = 100
 threshold_jaccard_measure = 0.9
 threshold_brand_value = 1000
+threshold_brand_value_lower_confidence = 200
 
 regex_to_tokenize_words_into_set = ' |; |, |\*|\n|<|>|-|/|:|\''
 json_brand_tag = "Brand"

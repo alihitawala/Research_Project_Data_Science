@@ -62,7 +62,7 @@ def is_part_match(pair):
 
 def check_edit_distance_measure(string1, string2):
     measure = editdistance.eval(string1, string2)
-    return 1-(measure/max(len(string1), len(string2))) >= C.threshold_edit_distance_measure
+    return 1-(float(measure)/max(len(string1), len(string2))) >= C.threshold_edit_distance_measure
 
 
 def check_jaccard_measure(string1, string2):
@@ -113,9 +113,12 @@ def check_product_description_for_both_product(pair):
                 max_probable_brand = brand
                 max_value = brand_value
     if max_value > C.threshold_brand_value:
-        logger.info("4.14 :: Brand predicted for pair id : " + pair.pair_id + " brand + " + max_probable_brand + " confidence :: " + str(max_value))
-        return True
-    return False
+        logger.info("4.14 :: Brand predicted for pair id : " + pair.pair_id + " brand + " + max_probable_brand + ", good confidence :: " + str(max_value))
+        return 'Y'
+    elif max_value > C.threshold_brand_value_lower_confidence:
+        logger.info("4.14 :: Brand predicted for pair id : " + pair.pair_id + " brand + " + max_probable_brand + ", low confidence :: " + str(max_value))
+        return 'D'
+    return 'N'
 
 
 def check_product_description_for_one_product(pair, product_to_check, brand):
@@ -124,8 +127,8 @@ def check_product_description_for_one_product(pair, product_to_check, brand):
     new_set = tokens_in_brand.difference(keywords_in_products)
     if len(new_set) == 0:
         logger.info("4.23 :: Brand predicted for pair id : " + pair.pair_id + " brand + " + brand)
-        return True
-    return False
+        return 'Y'
+    return 'N'
 
 
 def check_product_descripton_given_unmatched_brand(pair):
@@ -134,44 +137,48 @@ def check_product_descripton_given_unmatched_brand(pair):
 
 def is_brand_match_on_description(pair):
     if is_exact_match(pair):
-        return True
+        return 'Y'
     if (pair.v.brand is None or pair.v.brand.strip() == '') \
             and (pair.w.brand is None or pair.w.brand.strip() == ''):
-        if check_product_description_for_both_product(pair):
-            logger.info("ALGO id : 4.1, pair matched " + pair.pair_id)
-            return True
+        result = check_product_description_for_both_product(pair)
+        if result == 'Y' or result == 'D':
+            logger.info("ALGO id : 4.1, pair matched " + pair.pair_id + " Extent :: " + result)
+            return result
     elif pair.v.brand is None or pair.v.brand.strip() == '':
-        if check_product_description_for_one_product(pair, pair.v, pair.w.brand):
-            logger.info("ALGO id : 4.2, pair matched " + pair.pair_id)
-            return True
+        result = check_product_description_for_one_product(pair, pair.v, pair.w.brand)
+        if result == 'Y' or result == 'D':
+            logger.info("ALGO id : 4.2, pair matched " + pair.pair_id + " Extent :: " + result)
+            return result
     elif pair.w.brand is None or pair.w.brand.strip() == '':
-        if check_product_description_for_one_product(pair, pair.w, pair.v.brand):
-            logger.info("ALGO id : 4.3, pair matched " + pair.pair_id)
-            return True
-    elif check_product_descripton_given_unmatched_brand(pair):
-        logger.info("ALGO id : 4.4, pair matched " + pair.pair_id)
-        return True
-    return False
+        result = check_product_description_for_one_product(pair, pair.w, pair.v.brand)
+        if result == 'Y' or result == 'D':
+            logger.info("ALGO id : 4.3, pair matched " + pair.pair_id + " Extent :: " + result)
+            return result
+    else:
+        result = check_product_descripton_given_unmatched_brand(pair)
+        if result == 'Y' or result == 'D':
+            logger.info("ALGO id : 4.4, pair matched " + pair.pair_id + " Extent :: " + result)
+            return result
+    return 'N'
 
-
-def aggregate_matcher(pair, algorithm_pref = None):
+def aggregate_matcher(pair, algorithm_pref=None):
     if algorithm_pref is None:
         logger.error("Aggregate Matcher called without any algorithm")
         return
     if if_both_product_not_defined(pair):
-        return True
+        return 'N'
     if if_either_product_not_defined(pair):
-        return False
+        return 'N'
     for algorithm in algorithm_pref:
         if algorithm == C.matcher_algo_exact_match and is_exact_match(pair):
             logger.info("ALGO id : 1, pair matched " + pair.pair_id)
-            return True
+            return 'Y'
         elif algorithm == C.matcher_algo_part_match and is_part_match(pair):
             logger.info("ALGO id : 2, pair matched " + pair.pair_id)
-            return True
+            return 'Y'
         elif algorithm == C.matcher_algo_jaccard_match and is_jaccard_match(pair):
             logger.info("ALGO id : 3, pair matched " + pair.pair_id)
-            return True
-        elif algorithm == C.matcher_algo_information_extraction and is_brand_match_on_description(pair):
-            return True
-    return False
+            return 'Y'
+        elif algorithm == C.matcher_algo_information_extraction:
+            return is_brand_match_on_description(pair)
+    return 'N'
