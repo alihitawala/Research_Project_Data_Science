@@ -1,325 +1,399 @@
 Pair_ID                   Product_1_Brand      Product_2_Brand       Matcher_Result        Actual_result
-4217002-4217002#eBags               targus               targus                    Y                 True
-5347115-5347115#eBags           case logic           case logic                    Y                 True
-8245516-8245516#eBags               targus               targus                    Y                 True
-8586825-8586825#eBags               targus               targus                    Y                 True
-9193948-9193948#eBags            atv logic            atv logic                    Y                 True
-3377768-3377768#eBags          mobile edge          mobile edge                    Y                 True
-4217014-4217014#eBags               targus               targus                    Y                 True
-9447294-9447294#eBags          mobile edge          mobile edge                    Y                 True
-3356833-3356833#eBags               targus               targus                    Y                 True
-3377763-3377763#eBags          mobile edge          mobile edge                    Y                 True
-3377767-3377767#eBags          mobile edge          mobile edge                    Y                 True
-3356835-3356835#eBags               targus               targus                    Y                 True
-8586819-8586819#eBags               targus               targus                    Y                 True
-9225287-9225287#eBags          mobile edge          mobile edge                    Y                 True
-9225291-9225291#eBags          mobile edge          mobile edge                    Y                 True
-8586826-8586826#eBags               targus               targus                    Y                 True
-9225276-9225276#eBags          mobile edge          mobile edge                    Y                 True
-4805973-4805973#eBags           case logic           case logic                    Y                 True
-9225280-9225280#eBags          mobile edge          mobile edge                    Y                 True
-9225292-9225292#eBags          mobile edge          mobile edge                    Y                 True
-4216995-4216995#eBags               targus               targus                    Y                 True
-9875796-9875796#eBags           case logic           case logic                    Y                 True
-9225273-9225273#eBags          mobile edge          mobile edge                    Y                 True
-9225293-9225293#eBags          mobile edge          mobile edge                    Y                 True
-3356836-3356836#eBags           kensington           kensington                    Y                 True
-3371668-3371668#eBags           case logic           case logic                    Y                 True
-4217000-4217000#eBags               targus               targus                    Y                 True
-8586822-8586822#eBags               targus               targus                    Y                 True
-9225274-9225274#eBags          mobile edge          mobile edge                    Y                 True
-4217003-4217003#eBags               targus               targus                    Y                 True
-9225275-9225275#eBags          mobile edge          mobile edge                    Y                 True
-3985006-3985006#eBags          mobile edge          mobile edge                    Y                 True
-3356838-3356838#eBags           kensington           kensington                    Y                 True
-5996481-5996481#eBags           case logic           case logic                    Y                 True
-5996470-5996470#eBags           case logic           case logic                    Y                 True
-9863777-9863777#eBags           case logic           case logic                    Y                 True
-9225288-9225288#eBags          mobile edge          mobile edge                    Y                 True
-3356840-3356840#eBags               targus               targus                    Y                 True
-9208106-9208106#eBags                   hp               targus                    Y                 True
-9225277-9225277#eBags          mobile edge          mobile edge                    Y                 True
-9722003-9722003#eBags          able planet          able planet                    Y                 True
-10073803-10073803#eBags                 solo                 solo                    Y                 True
-10910315-10910315#eBags          mobile edge          mobile edge                    Y                 True
-11068335-11068335#eBags          mcklein usa          mcklein usa                    Y                 True
-11082496-11082496#eBags               targus               targus                    Y                 True
-11084238-11084238#eBags         wicked audio         wicked audio                    Y                 True
-11988059-11988059#eBags          mobile edge                 sumo                    Y                 True
-11988076-11988076#eBags               targus               targus                    Y                 True
-11997515-11997515#eBags        higher ground        higher ground                    Y                 True
-12180028-12180028#eBags     designer sleeves     designer sleeves                    Y                 True
-12180070-12180070#eBags     designer sleeves     designer sleeves                    Y                 True
-12180103-12180103#eBags     designer sleeves     designer sleeves                    Y                 True
-12181608-12181608#eBags          mcklein usa          mcklein usa                    Y                 True
-12181609-12181609#eBags          mcklein usa          mcklein usa                    Y                 True
-12181620-12181620#eBags              mcklein          mcklein usa                    D                 True
-12181700-12181700#eBags     david king & co.     david king & co.                    Y                 True
-12181705-12181705#eBags     david king & co.     david king & co.                    Y                 True
-12182239-12182239#eBags          mobile edge          mobile edge                    Y                 True
-12182374-12182374#eBags       lewis n. clark       lewis n. clark                    Y                 True
-12182400-12182400#eBags           case logic           case logic                    Y                 True
-12182846-12182846#eBags               sumdex               sumdex                    Y                 True
-12183204-12183204#eBags          mobile edge          mobile edge                    Y                 True
-932031-932031#Limited Goods               belkin                                         Y                 True
-1234894-1234894#Limited Goods                canon                                         Y                 True
-3756896-3756896#Limited Goods               belkin                                         Y                 True
-4025874-4025874#Limited Goods            microsoft            microsoft                    Y                 True
-7754443-7754443#Limited Goods               maxell                                         Y                 True
-9189660-9189660#Limited Goods           discwasher           discwasher                    Y                 True
-9225261-9225261#Limited Goods american power conversion american power conversion                    Y                 True
-9871188-9871188#Limited Goods            energizer                                         Y                 True
-12184525-12184525#eBags              netpack              netpack                    Y                 True
-12184565-12184565#eBags              netpack              netpack                    Y                 True
-872051-872051#ivgStores             eveready                                         Y                 True
-2585639-2585639#ivgStores              lexmark              lexmark                    Y                 True
-3387612-3387612#ivgStores              lexmark              lexmark                    Y                 True
-3576485-3576485#ivgStores              lexmark              lexmark                    Y                 True
-12186203-12186203#eBags     designer sleeves     designer sleeves                    Y                 True
-12186211-12186211#eBags     designer sleeves     designer sleeves                    Y                 True
-12186335-12186335#eBags           case logic           case logic                    Y                 True
-4664464-4664464#ivgStores                canon                                         Y                 True
-5723587-5723587#ivgStores               belkin               belkin                    Y                 True
-12187451-12187451#eBags          mobile edge          mobile edge                    Y                 True
-12187705-12187705#eBags     designer sleeves     designer sleeves                    Y                 True
-12187816-12187816#eBags     designer sleeves     designer sleeves                    Y                 True
-12187871-12187871#eBags     designer sleeves     designer sleeves                    Y                 True
-12342530-12342530#eBags        royce leather        royce leather                    Y                 True
-12343007-12343007#eBags     designer sleeves     designer sleeves                    Y                 True
-12343021-12343021#eBags     designer sleeves     designer sleeves                    Y                 True
-9225253-9225253#ivgStores                  apc                  apc                    Y                 True
-2445355-2445355#ivgStores            energizer            energizer                    Y                 True
-2585638-2585638#ivgStores              lexmark              lexmark                    Y                 True
-2685981-2685981#ivgStores              lexmark              lexmark                    Y                 True
-17771102-17771102#Babyhaven              kids ii        bright starts                    N                 True
-12360588-12360588#eBags             travelon             travelon                    Y                 True
-12361423-12361423#eBags              maccase              maccase                    Y                 True
-7964947-7964947#ivgStores            dreamgear                                         Y                 True
-7964948-7964948#ivgStores            dreamgear                                         Y                 True
-12444923-12444923#eBags              aquapac              aquapac                    Y                 True
-1233539-1233539#ivgStores    cobra electronics                                         Y                 True
-2160472-2160472#ivgStores              brother brother international                    Y                 True
-12509863-12509863#eBags              caribee              caribee                    Y                 True
-2470635-2470635#ivgStores               iogear                                         Y                 True
-2470642-2470642#ivgStores               belkin               belkin                    Y                 True
-2585627-2585627#ivgStores              lexmark              lexmark                    Y                 True
-12528315-12528315#eBags             kena kai             kena kai                    Y                 True
-3321417-3321417#ivgStores               garmin               garmin                    Y                 True
-29829040-29829040#Perf-Moto                                                              Y                 True
-12548329-12548329#eBags           leatherbay           leatherbay                    Y                 True
-15010243-15010243#Babyhaven         parent units         parent units                    Y                 True
-13045149-13045149#eBags                 solo                 solo                    Y                 True
-13050315-13050315#eBags               sumdex               sumdex                    Y                 True
-8154370-8154370#ivgStores               garmin                                         Y                 True
-13219542-13219542#eBags               targus               targus                    Y                 True
-13219580-13219580#eBags               targus               targus                    Y                 True
-13219589-13219589#eBags               targus               targus                    Y                 True
-13219595-13219595#eBags               targus               targus                    Y                 True
-9893700-9893700#ivgStores          bic venturi          bic america                    Y                 True
-13241061-13241061#eBags     le donne leather      ledonne leather                    Y                 True
-1233548-1233548#ivgStores    cobra electronics                                         Y                 True
-13246663-13246663#eBags     le donne leather      ledonne leather                    Y                 True
-13246664-13246664#eBags     le donne leather      ledonne leather                    Y                 True
-13248342-13248342#eBags        royce leather        royce leather                    Y                 True
-13252811-13252811#eBags           case logic           case logic                    Y                 True
-13730097-13730097#eBags         team promark         team promark                    Y                 True
-13730100-13730100#eBags         team promark         team promark                    Y                 True
-13812840-13812840#eBags                ebags                ebags                    Y                 True
-5934005-5934005#ivgStores              keyspan           tripp lite                    D                 True
-13983018-13983018#eBags              netpack              netpack                    Y                 True
-8111422-8111422#ivgStores             eveready            energizer                    Y                 True
-8144079-8144079#ivgStores           bracketron           bracketron                    Y                 True
-14118875-14118875#eBags           case logic           case logic                    Y                 True
-8144086-8144086#ivgStores           bracketron           bracketron                    Y                 True
-14178205-14178205#eBags        franklincovey        franklincovey                    Y                 True
-14313307-14313307#eBags          mobile edge          mobile edge                    Y                 True
-14574778-14574778#eBags     designer sleeves     designer sleeves                    Y                 True
-14644597-14644597#eBags         wicked audio         wicked audio                    Y                 True
-932034-932034#ivgStores               belkin               belkin                    Y                 True
-2470128-2470128#ivgStores                  apc                  apc                    Y                 True
-14664902-14664902#eBags     shoreline marine            shoreline                    Y                 True
-3576486-3576486#ivgStores              lexmark              lexmark                    Y                 True
-3630474-3630474#ivgStores              lexmark              lexmark                    Y                 True
-14967560-14967560#eBags               protec               protec                    Y                 True
-14978725-14978725#eBags               targus               targus                    Y                 True
-15040735-15040735#eBags     designer sleeves     designer sleeves                    Y                 True
-15040761-15040761#eBags           case logic           case logic                    Y                 True
-15042368-15042368#eBags           miquelrius           miquelrius                    Y                 True
-15042380-15042380#eBags     designer sleeves     designer sleeves                    Y                 True
-15062939-15062939#eBags              maccase              maccase                    Y                 True
-5799655-5799655#ivgStores              lexmark              lexmark                    Y                 True
-15062963-15062963#eBags              maccase              maccase                    Y                 True
-15111419-15111419#eBags               wenzel               wenzel                    Y                 True
-15172512-15172512#eBags               targus               targus                    Y                 True
-8136492-8136492#ivgStores                canon                canon                    Y                 True
-15406802-15406802#eBags               targus               targus                    Y                 True
-15421546-15421546#eBags          mobile edge          mobile edge                    Y                 True
-15522312-15522312#eBags                three                three                    Y                 True
-15524252-15524252#eBags             travelon             travelon                    Y                 True
-15524257-15524257#eBags             travelon             travelon                    Y                 True
-15525124-15525124#eBags     designer sleeves     designer sleeves                    Y                 True
-9907221-9907221#ivgStores        designs to go convenience concepts                    D                 True
-15525125-15525125#eBags     designer sleeves     designer sleeves                    Y                 True
-9919109-9919109#ivgStores              sangean              sangean                    Y                 True
-20565753-16225385#eBags         trident case         trident case                    Y                False
-20565735-16225385#eBags         trident case         trident case                    Y                False
-22293444-16225387#eBags         trident case         trident case                    Y                False
-16225385-16225387#eBags         trident case         trident case                    Y                False
-16225401-16225402#eBags         trident case         trident case                    Y                False
-16225399-16225402#eBags         trident case         trident case                    Y                False
-16225398-16225402#eBags              trident         trident case                    Y                False
-23226944-16332622#eBags           case logic           case logic                    Y                False
-16453808-16453823#eBags              ice red              ice red                    Y                False
-16453811-16453823#eBags              ice red              ice red                    Y                False
-16453810-16453823#eBags              ice red              ice red                    Y                False
-12359359-16489720#eBags              aquapac              aquapac                    Y                False
-16489723-16489720#eBags              aquapac              aquapac                    Y                False
-16539485-16539484#eBags              incipio              incipio                    Y                False
-21551929-16539484#eBags              incipio              incipio                    Y                False
-16539485-16539487#eBags              incipio              incipio                    Y                False
-16539484-16539487#eBags              incipio              incipio                    Y                False
-21551929-16539487#eBags              incipio              incipio                    Y                False
-16783599-16541378#eBags               targus               targus                    Y                False
-15406795-16541378#eBags               targus               targus                    Y                False
-20468957-16561013#eBags           kensington           kensington                    Y                False
-15716948-16561718#eBags           case logic           case logic                    Y                False
-26464252-16561718#eBags           case logic           case logic                    Y                False
-16561940-16561786#eBags              roocase              roocase                    Y                False
-16561712-16561786#eBags              roocase              roocase                    Y                False
-12509680-16561886#eBags              casauri              casauri                    Y                False
-16561887-16561886#eBags              casauri              casauri                    Y                False
-12509689-16561886#eBags              casauri              casauri                    Y                False
-16561684-16561921#eBags              roocase              roocase                    Y                False
-16561683-16561921#eBags              roocase              roocase                    Y                False
-16561688-16561930#eBags                 booq                 booq                    Y                False
-25205883-16561930#eBags                 booq                 booq                    Y                False
-16565535-16565536#eBags               protec               protec                    Y                False
-17654764-16565536#eBags               protec               protec                    Y                False
-15106130-16621120#eBags     travelers choice     travelers choice                    Y                False
-16539457-16621120#eBags     travelers choice     travelers choice                    Y                False
-30055124-29889954#Perf-Moto                  z1r                  z1r                    Y                False
-30238743-29889954#Perf-Moto                  z1r                  z1r                    Y                False
-29991101-29889954#Perf-Moto                  z1r                  z1r                    Y                False
-12185577-16660110#eBags                 solo                 solo                    Y                False
-12184468-16660110#eBags                 solo                 solo                    Y                False
-16660784-16660759#eBags               jworld              j world                    Y                False
-16660770-16660759#eBags               jworld              j world                    Y                False
-16660784-16660772#eBags               jworld              j world                    Y                False
-16660770-16660772#eBags               jworld              j world                    Y                False
-16660861-16660778#eBags               jworld              j world                    Y                False
-15722382-16660778#eBags               jworld              j world                    Y                False
-16792060-16792047#eBags     rockland luggage     rockland luggage                    Y                False
-16946434-16792047#eBags     rockland luggage     rockland luggage                    Y                False
-20552042-16792047#eBags     rockland luggage     rockland luggage                    Y                False
-27512327-16794808#eBags     designer sleeves     designer sleeves                    Y                False
-21128592-16794808#eBags     designer sleeves     designer sleeves                    Y                False
-15525118-16794808#eBags     designer sleeves     designer sleeves                    Y                False
-21128539-16794823#eBags     designer sleeves     designer sleeves                    Y                False
-12186016-16794823#eBags     designer sleeves     designer sleeves                    Y                False
-39639520-39639515#Babyhaven                kidco                kidco                    Y                False
-42889004-39639515#Babyhaven                kidco                kidco                    Y                False
-16873979-16873978#eBags              roocase              roocase                    Y                False
-16873738-16873978#eBags              roocase              roocase                    Y                False
-24542106-16874952#eBags               sumdex               sumdex                    Y                False
-24542107-16874952#eBags               sumdex               sumdex                    Y                False
-12187138-16874952#eBags               sumdex               sumdex                    Y                False
-16874965-16874966#eBags               sumdex               sumdex                    Y                False
-16927127-16927121#eBags               targus               targus                    Y                False
-16927131-16927121#eBags               targus               targus                    Y                False
-16927127-16927122#eBags               targus               targus                    Y                False
-16927128-16927122#eBags               targus               targus                    Y                False
-16927128-16927126#eBags               targus               targus                    Y                False
-16927125-16927126#eBags               targus               targus                    Y                False
-16927129-16927131#eBags               targus               targus                    Y                False
-16927130-16927131#eBags               targus               targus                    Y                False
-29372731-16933452#eBags          sydney love          sydney love                    Y                False
-29372730-16933452#eBags          sydney love          sydney love                    Y                False
-20897845-16944283#eBags              bellino              bellino                    Y                False
-16778253-17032482#eBags               targus               targus                    Y                False
-29732878-17129605#eBags              incipio              incipio                    Y                False
-29732874-17129605#eBags              incipio              incipio                    Y                False
-17129626-17129683#eBags              incipio              incipio                    Y                False
-17129598-17129683#eBags              incipio              incipio                    Y                False
-17129658-17129683#eBags              incipio              incipio                    Y                False
-17510991-17133293#eBags     le donne leather      ledonne leather                    Y                False
-17510956-17133293#eBags     le donne leather      ledonne leather                    Y                False
-17134131-17134132#eBags              roocase              roocase                    Y                False
-16873740-17134132#eBags              roocase              roocase                    Y                False
-17134162-17134137#eBags              roocase              roocase                    Y                False
-17134135-17134137#eBags              roocase              roocase                    Y                False
-17134161-17134137#eBags              roocase              roocase                    Y                False
-17134145-17134144#eBags              roocase              roocase                    Y                False
-17211252-17134144#eBags              roocase              roocase                    Y                False
-17211176-17134166#eBags              roocase              roocase                    Y                False
-17212352-17134166#eBags              roocase              roocase                    Y                False
-17212351-17134166#eBags              roocase              roocase                    Y                False
-17211225-17211249#eBags              roocase              roocase                    Y                False
-17211248-17211249#eBags              roocase              roocase                    Y                False
-17134162-17211249#eBags              roocase              roocase                    Y                False
-17277021-17277012#eBags             frommers             frommers                    Y                False
-17277014-17277012#eBags             frommers             frommers                    Y                False
-39505613-39505611#Babyhaven             squooshi             squooshi                    Y                False
-24633722-39505611#Babyhaven             squooshi             squooshi                    Y                False
-17787030-17323887#eBags           case logic           case logic                    Y                False
-34240989-17323887#eBags           case logic           case logic                    Y                False
-16480768-17323887#eBags           case logic           case logic                    Y                False
-17395950-17395941#eBags          mcklein usa          mcklein usa                    Y                False
-21889921-17395941#eBags          mcklein usa          mcklein usa                    Y                False
-17395923-17395975#eBags          mcklein usa          mcklein usa                    Y                False
-17395981-17395975#eBags          mcklein usa          mcklein usa                    Y                False
-31420666-14915802#ivgStores               kantek               kantek                    Y                False
-41099843-14915802#ivgStores               kantek               kantek                    Y                False
-40177097-14915802#ivgStores               kantek               kantek                    Y                False
-17449845-17449846#eBags              maccase              maccase                    Y                False
-15063000-17449846#eBags              maccase              maccase                    Y                False
-33946313-14916415#ivgStores              lexmark              lexmark                    Y                False
-32545299-14916415#ivgStores              lexmark              lexmark                    Y                False
-23134150-14916415#ivgStores              lexmark              lexmark                    Y                False
-34954174-14922530#ivgStores              lexmark              lexmark                    Y                False
-14915870-14922530#ivgStores              lexmark              lexmark                    Y                False
-17654764-17654766#eBags               protec               protec                    Y                False
-17654765-17654766#eBags               protec               protec                    Y                False
-17211176-17756892#eBags              roocase              roocase                    Y                False
-17756903-17756892#eBags              roocase              roocase                    Y                False
-17756902-17756892#eBags              roocase              roocase                    Y                False
-29569421-17756998#eBags                 codi                 codi                    Y                False
-33836735-14927489#ivgStores                  oki             oki data                    Y                False
-32511770-14927489#ivgStores                  oki             oki data                    Y                False
-17811941-17811940#eBags               nestle               nestle                    Y                False
-32111839-14927489#ivgStores                  oki             oki data                    Y                False
-15570486-17811940#eBags                nestl               nestle                    Y                False
-33836735-14927495#ivgStores                  oki             oki data                    Y                False
-32511770-14927495#ivgStores                  oki             oki data                    Y                False
-12183408-17811959#eBags     designer sleeves     designer sleeves                    Y                False
-12183403-17811959#eBags     designer sleeves     designer sleeves                    Y                False
-16914020-17811959#eBags     designer sleeves     designer sleeves                    Y                False
-23140292-14928628#ivgStores                  oki             oki data                    Y                False
-23140549-14928628#ivgStores                  oki             oki data                    Y                False
-13044365-14931223#ivgStores                   3m                                         Y                False
-13044363-14931223#ivgStores                   3m                                         Y                False
-14935224-14931223#ivgStores                   3m                                         Y                False
-40182247-15048429#ivgStores                            audio technica                    Y                False
-31156176-15066078#ivgStores              lexmark              lexmark                    Y                False
-31424213-15066078#ivgStores              lexmark              lexmark                    Y                False
-19316104-19316103#eBags               sumdex               sumdex                    Y                False
-19316077-19316103#eBags               sumdex               sumdex                    Y                False
-11980358-15135097#ivgStores               garmin                                         N                False
-8154370-15135097#ivgStores               garmin                                         N                False
-21296718-19426181#eBags               targus               targus                    Y                False
-15846619-19426181#eBags               targus               targus                    Y                False
-40212020-19426181#eBags               targus               targus                    Y                False
-20849252-15200080#ivgStores               centon                                         N                False
-20847587-15200080#ivgStores               centon                                         N                False
-20847566-15200080#ivgStores               centon                                         N                False
-19480534-19480533#eBags              roocase              roocase                    Y                False
-29969257-29968971#Perf-Moto                  z1r                  z1r                    Y                False
-19480532-19480533#eBags              roocase              roocase                    Y                False
-19480536-19480535#eBags              roocase              roocase                    Y                False
-19480538-19480535#eBags              roocase              roocase                    Y                False
-19480535-19480536#eBags              roocase              roocase                    Y                False
-19480538-19480536#eBags              roocase              roocase                    Y                False
-20970720-19486615#eBags             ed hardy             ed hardy                    Y                False
-19486712-19486715#eBags               murval               murval                    Y                False
-19486714-19486715#eBags               murval               murval                    Y                False
-19486997-19486743#eBags           looptworks           looptworks                    Y                False
-22214525-19486743#eBags           looptworks           looptworks                    Y                False
+10242673-10242673#Tonzof                 at&t                vtech                    N                 True
+41982012-41982012#HappEshopper                                                              N                 True
+10242709-10242709#Tonzof             eveready             eveready                    Y                 True
+10242711-10242711#Tonzof             eveready             eveready                    Y                 True
+42434032-42434032#HappEshopper             siriusxm             siriusxm                    Y                 True
+42517051-42517051#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+10242795-10242795#Tonzof        monster cable        monster cable                    Y                 True
+10284307-10284307#Tonzof          plantronics          plantronics                    Y                 True
+10284317-10284317#Tonzof          plantronics          plantronics                    Y                 True
+42963094-42963094#HappEshopper     dual electronics     dual electronics                    Y                 True
+10284328-10284328#Tonzof          plantronics          plantronics                    Y                 True
+40717677-40717677#HappEshopper            compustar            compustar                    Y                 True
+10284364-10284364#Tonzof              samsill              samsill                    Y                 True
+41161833-41161833#HappEshopper              pioneer              pioneer                    Y                 True
+10298555-10298555#Tonzof              sangean              sangean                    Y                 True
+41269210-41269210#HappEshopper                                                              Y                 True
+10298565-10298565#Tonzof                 pyle                 pyle                    Y                 True
+41269232-41269232#HappEshopper               fortin               fortin                    Y                 True
+41269235-41269235#HappEshopper              clarion              clarion                    Y                 True
+41269247-41269247#HappEshopper             audiovox             audiovox                    Y                 True
+41269250-41269250#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+41269261-41269261#HappEshopper     dual electronics     dual electronics                    Y                 True
+41269293-41269293#HappEshopper     dual electronics     dual electronics                    Y                 True
+41269295-41269295#HappEshopper                                                              D                 True
+19866151-19866151#Bic Warehouse                  crc                                         Y                 True
+10333827-10333827#Tonzof           case logic           case logic                    Y                 True
+41981962-41981962#HappEshopper             infinity             infinity                    Y                 True
+10363846-10363846#Tonzof             fellowes             fellowes                    Y                 True
+41982033-41982033#HappEshopper     dual electronics     dual electronics                    Y                 True
+41982042-41982042#HappEshopper                                                              D                 True
+42347916-42347916#HappEshopper                  jvc                  jvc                    Y                 True
+42748088-42748088#HappEshopper            compustar            compustar                    Y                 True
+42748107-42748107#HappEshopper            compustar            compustar                    Y                 True
+19885640-19885640#Bic Warehouse             verbatim                                         N                 True
+42748136-42748136#HappEshopper            powerbass            powerbass                    Y                 True
+10542285-10542285#Tonzof               maxell               maxell                    Y                 True
+42782151-42782151#HappEshopper             hifonics             hifonics                    Y                 True
+10603498-10603498#Tonzof                 at&t                vtech                    D                 True
+10603645-10603645#Tonzof              midland              midland                    Y                 True
+10629557-10629557#Tonzof            durabrand          battery biz                    Y                 True
+41269195-41269195#HappEshopper                sanus                sanus                    Y                 True
+41269196-41269196#HappEshopper                                                              Y                 True
+32700468-32700468#Perf-Moto                nolan                nolan                    Y                 True
+10714722-10714722#Tonzof             fellowes             fellowes                    Y                 True
+41269282-41269282#HappEshopper               jensen               jensen                    Y                 True
+10730673-10730673#Tonzof              memorex              memorex                    Y                 True
+10730695-10730695#Tonzof           tripp lite           tripp lite                    Y                 True
+41378023-41378023#HappEshopper             prestige             prestige                    Y                 True
+10242693-10242693#Bic Warehouse            energizer                                         N                 True
+10746775-10746775#Tonzof    cobra electronics        cobra digital                    Y                 True
+10755889-10755889#Tonzof                 koss                 koss                    Y                 True
+10756309-10756309#Tonzof              sandisk              sandisk                    Y                 True
+41981947-41981947#HappEshopper        harman kardon        harman kardon                    Y                 True
+10353073-10353073#Bic Warehouse                avery       avery-dennison                    Y                 True
+10363836-10363836#Bic Warehouse             fellowes                                         N                 True
+10714730-10714730#Bic Warehouse             fellowes                                         N                 True
+41981998-41981998#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+10811240-10811240#Tonzof             aluratek             aluratek                    Y                 True
+10828923-10828923#Tonzof                           hewlett packard                    Y                 True
+42517025-42517025#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+42517052-42517052#HappEshopper                                                              N                 True
+10884526-10884526#Tonzof                 siig                 siig                    Y                 True
+42748121-42748121#HappEshopper            compustar            compustar                    Y                 True
+42748150-42748150#HappEshopper                                                              N                 True
+10910197-10910197#Tonzof              lexmark              lexmark                    Y                 True
+10913181-10913181#Tonzof             motorola             motorola                    Y                 True
+42962987-42962987#HappEshopper              kenwood              kenwood                    Y                 True
+41269225-41269225#HappEshopper            idatalink            idatalink                    Y                 True
+41269234-41269234#HappEshopper                                                              Y                 True
+11077933-11077933#Bic Warehouse           tripp lite            tripplite                    Y                 True
+41269244-41269244#HappEshopper              pioneer              pioneer                    Y                 True
+41269255-41269255#HappEshopper             infinity             infinity                    Y                 True
+41269269-41269269#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+10966178-10966178#Tonzof              midland              midland                    Y                 True
+41738394-41738394#HappEshopper            farenheit            farenheit                    Y                 True
+842821-842821#Walmart.com                                                              N                 True
+10975609-10975609#Tonzof                 siig                 siig                    Y                 True
+41981993-41981993#HappEshopper               fortin               fortin                    Y                 True
+10980436-10980436#Tonzof                 coby                 coby                    Y                 True
+42516931-42516931#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+10988735-10988735#Tonzof             fellowes             fellowes                    Y                 True
+13224584-13224584#Bic Warehouse               maxell maxell corp. of america                    Y                 True
+10992495-10992495#Tonzof                 siig                 siig                    Y                 True
+10993522-10993522#Tonzof              lexmark              lexmark                    Y                 True
+42517044-42517044#HappEshopper             infinity             infinity                    Y                 True
+42748067-42748067#HappEshopper            compustar            compustar                    Y                 True
+11002011-11002011#Tonzof             fellowes             fellowes                    Y                 True
+11007934-11007934#Tonzof                   hp      hewlett packard                    Y                 True
+11013482-11013482#Tonzof         thrustmaster         thrustmaster                    Y                 True
+11016949-11016949#Tonzof                 siig                 siig                    Y                 True
+42748152-42748152#HappEshopper               escort               escort                    Y                 True
+13432606-13432606#Bic Warehouse             camelion             camelion                    Y                 True
+42962999-42962999#HappEshopper       power acoustik       power acoustik                    Y                 True
+11026797-11026797#Tonzof                canon canon computer systems ccsi                    Y                 True
+40243764-40243764#HappEshopper              kenwood              kenwood                    Y                 True
+843819-843819#Walmart.com                                                              N                 True
+41269205-41269205#HappEshopper              kenwood              kenwood                    Y                 True
+41269229-41269229#HappEshopper                 dual                 dual                    Y                 True
+41269230-41269230#HappEshopper            compustar            compustar                    Y                 True
+844183-844183#Walmart.com                                                              N                 True
+41269281-41269281#HappEshopper            compustar            compustar                    Y                 True
+41269289-41269289#HappEshopper                sanus                sanus                    Y                 True
+41269290-41269290#HappEshopper               fortin               fortin                    Y                 True
+11060758-11060758#Tonzof         cyberpowerpc           cyberpower                    N                 True
+41269301-41269301#HappEshopper            compustar            compustar                    Y                 True
+41269315-41269315#HappEshopper              clarion              clarion                    Y                 True
+41879110-41879110#HappEshopper            compustar            compustar                    Y                 True
+14669069-14669069#Bic Warehouse             innovera             innovera                    Y                 True
+41982032-41982032#HappEshopper              kenwood              kenwood                    Y                 True
+42516930-42516930#HappEshopper             audiovox             audiovox                    Y                 True
+42517019-42517019#HappEshopper                                                              Y                 True
+42517035-42517035#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+42549317-42549317#HappEshopper             infinity             infinity                    Y                 True
+11077938-11077938#Tonzof           tripp lite           tripp lite                    Y                 True
+11077955-11077955#Tonzof           tripp lite           tripp lite                    Y                 True
+42782167-42782167#HappEshopper             hifonics             hifonics                    Y                 True
+11331638-11331638#Tonzof             peerless             peerless                    Y                 True
+41161828-41161828#HappEshopper              pioneer              pioneer                    Y                 True
+11331693-11331693#Tonzof  peerless smartmount             peerless                    Y                 True
+41269192-41269192#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+41269206-41269206#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+41269239-41269239#HappEshopper                  jvc                  jvc                    Y                 True
+41879116-41879116#HappEshopper              kenwood              kenwood                    Y                 True
+41981925-41981925#HappEshopper              clarion              clarion                    Y                 True
+11684433-11684433#Tonzof                  rca                  rca                    Y                 True
+11714646-11714646#Tonzof          bic venturi          bic venturi                    Y                 True
+11962147-11962147#Tonzof             amplivox             amplivox                    Y                 True
+11962166-11962166#Tonzof             amplivox             amplivox                    Y                 True
+41982019-41982019#HappEshopper            compustar            compustar                    Y                 True
+11968843-11968843#Tonzof           boss audio           boss audio                    Y                 True
+11974001-11974001#Tonzof                cobra        cobra digital                    Y                 True
+14944822-14944822#Bic Warehouse             logitech                                         N                 True
+42347915-42347915#HappEshopper                  jvc                  jvc                    Y                 True
+11988068-11988068#Tonzof                 sumo          mobile edge                    D                 True
+11988076-11988076#Tonzof               targus               targus                    Y                 True
+12016350-12016350#Tonzof                 pyle                 pyle                    Y                 True
+12016362-12016362#Tonzof                 pyle                 pyle                    Y                 True
+42748139-42748139#HappEshopper           polk audio           polk audio                    Y                 True
+42782166-42782166#HappEshopper              kenwood              kenwood                    Y                 True
+12081380-12081380#Tonzof          battery-biz          battery biz                    Y                 True
+12081502-12081502#Tonzof          battery-biz          battery biz                    Y                 True
+12081527-12081527#Tonzof          battery-biz          battery biz                    Y                 True
+12081547-12081547#Tonzof          battery-biz          battery biz                    Y                 True
+40717678-40717678#HappEshopper             audiovox             audiovox                    Y                 True
+41269268-41269268#HappEshopper            xpresskit            xpresskit                    Y                 True
+41269312-41269312#HappEshopper                                                              Y                 True
+41879033-41879033#HappEshopper            farenheit            farenheit                    Y                 True
+41981950-41981950#HappEshopper              pioneer              pioneer                    Y                 True
+15118429-15118429#Bic Warehouse             innovera             innovera                    Y                 True
+15173190-15173190#Bic Warehouse                canon                                         N                 True
+41982071-41982071#HappEshopper                  jvc                  jvc                    Y                 True
+12321674-12321674#Tonzof             verbatim             verbatim                    Y                 True
+12321745-12321745#Tonzof                  pny                  pny                    Y                 True
+42748146-42748146#HappEshopper              kenwood              kenwood                    Y                 True
+15569971-15569971#Bic Warehouse            energizer            energizer                    Y                 True
+12342529-12342529#Tonzof        royce leather        royce leather                    Y                 True
+42782144-42782144#HappEshopper             hifonics             hifonics                    Y                 True
+42782161-42782161#HappEshopper             hifonics             hifonics                    Y                 True
+12342841-12342841#Tonzof          mobile edge          mobile edge                    Y                 True
+12342844-12342844#Tonzof          mobile edge          mobile edge                    Y                 True
+12343508-12343508#Tonzof       power acoustik       power acoustik                    Y                 True
+12343515-12343515#Tonzof       power acoustik       power acoustik                    Y                 True
+41161826-41161826#HappEshopper              pioneer              pioneer                    Y                 True
+41161830-41161830#HappEshopper              pioneer              pioneer                    Y                 True
+849708-849708#Walmart.com                                                              D                 True
+41269240-41269240#HappEshopper            xpresskit            xpresskit                    Y                 True
+12356283-12356283#Tonzof            panasonic            panasonic                    Y                 True
+41269252-41269252#HappEshopper     rockford fosgate     rockford fosgate                    Y                 True
+41269291-41269291#HappEshopper                sanus                sanus                    Y                 True
+41378025-41378025#HappEshopper            compustar            compustar                    Y                 True
+12427335-12427335#Tonzof                 codi                 codi                    Y                 True
+12457258-12457258#Tonzof               d-link               d-link                    Y                 True
+41879076-41879076#HappEshopper              kenwood              kenwood                    Y                 True
+15902913-15902913#Bic Warehouse             verbatim                                         N                 True
+12457802-12457802#Tonzof          thermaltake          thermaltake                    Y                 True
+12482995-12482995#Tonzof                                        hp                    Y                 True
+12510581-12510581#Tonzof                 pyle                 pyle                    Y                 True
+12538156-12538156#Tonzof                  rca                  rca                    Y                 True
+12547904-12547904#Tonzof               belkin               belkin                    Y                 True
+42748104-42748104#HappEshopper           polk audio           polk audio                    Y                 True
+12574850-12574850#Tonzof              allegro  samsill corporation                    N                 True
+12636701-12636701#Tonzof            dane-elec            dane-elec                    Y                 True
+42748124-42748124#HappEshopper              kenwood              kenwood                    Y                 True
+13020848-13020848#Tonzof            omnimount            omnimount                    Y                 True
+16553075-16553075#Bic Warehouse                  rca                                         Y                 True
+42748128-42748128#HappEshopper           polk audio           polk audio                    Y                 True
+13021231-13021231#Tonzof              netgear              netgear                    Y                 True
+13021252-13021252#Tonzof doublesight displays          doublesight                    Y                 True
+13029192-13029192#Tonzof                epson                epson                    Y                 True
+13029203-13029203#Tonzof                epson                epson                    Y                 True
+40711113-40711113#HappEshopper                viper                viper                    Y                 True
+41269202-41269202#HappEshopper              pioneer              pioneer                    Y                 True
+41269222-41269222#HappEshopper               fortin               fortin                    Y                 True
+41269272-41269272#HappEshopper                denon                denon                    Y                 True
+13044272-13044272#Tonzof           tripp lite           tripp lite                    Y                 True
+13044283-13044283#Tonzof           tripp lite           tripp lite                    Y                 True
+13044359-13044359#Tonzof                   3m                   3m                    Y                 True
+13044474-13044474#Tonzof                   3m                   3m                    Y                 True
+13044594-13044594#Tonzof            microsoft            microsoft                    Y                 True
+13045768-13045768#Tonzof          plantronics          plantronics                    Y                 True
+40879101-41359678#Zoro                                                              Y                False
+40790659-41359678#Zoro                                                              Y                False
+43066575-41360408#Zoro             altronix                                         N                False
+40897938-11004208#Walmart.com         thrustmaster         thrustmaster                    Y                False
+11004205-11004208#Walmart.com         thrustmaster         thrustmaster                    Y                False
+22880890-11004276#Walmart.com            dane-elec            dane-elec                    Y                False
+33791257-11004276#Walmart.com                                 dane-elec                    Y                False
+20975018-11004276#Walmart.com            dane-elec            dane-elec                    Y                False
+41360359-11004280#Walmart.com                                 dane-elec                    Y                False
+40754515-41363294#Zoro                                                              D                False
+41812662-41363294#Zoro                  c2g                                         N                False
+15860097-28459278#UnbeatableSale.com        general tools        general tools                    Y                False
+24949858-28459980#UnbeatableSale.com               westek               westek                    Y                False
+41361500-41368981#Zoro                brady                                         N                False
+41330002-41369385#Zoro              pyramid                                         N                False
+40831890-41369385#Zoro                brady                                         N                False
+11007927-11007930#Walmart.com                   hp                   hp                    Y                False
+11007929-11007930#Walmart.com                   hp                   hp                    Y                False
+41152619-11008097#Walmart.com              memorex              memorex                    Y                False
+41149199-11008097#Walmart.com              memorex              memorex                    Y                False
+13969121-11008097#Walmart.com              memorex              memorex                    Y                False
+41963800-41370832#Zoro                                                              D                False
+41963647-41370832#Zoro                                                              D                False
+42013227-41370832#Zoro                                                              D                False
+41362718-41377040#Zoro                brady                brady                    Y                False
+41325999-41377040#Zoro                brady                brady                    Y                False
+33344080-41380465#Zoro               linear                                         N                False
+41869279-41380667#Zoro                                                              N                False
+41902024-41380667#Zoro                                                              N                False
+32122006-28501731#UnbeatableSale.com                               cozy-heater                    N                False
+20659771-28501877#UnbeatableSale.com                 pyle              pylepro                    N                False
+22887544-28501890#UnbeatableSale.com              pyramid              pyramid                    Y                False
+41972469-28501904#UnbeatableSale.com                 pyle           pyle audio                    Y                False
+20657577-28501904#UnbeatableSale.com                 pyle           pyle audio                    Y                False
+29836985-28502125#UnbeatableSale.com            minuteman            minuteman                    Y                False
+41508111-28540165#UnbeatableSale.com              crosley              crosley                    Y                False
+41509227-28540165#UnbeatableSale.com              crosley              crosley                    Y                False
+12020376-41385120#Zoro             peerless             peerless                    Y                False
+35763238-11011919#Walmart.com                bello                                         N                False
+11020875-11012406#Walmart.com   all about learning                                         N                False
+15701620-41398811#Zoro              imation                                         N                False
+41336697-41399974#Zoro            optronics            optronics                    Y                False
+41343745-41399974#Zoro            optronics            optronics                    Y                False
+41075509-11013482#Walmart.com         thrustmaster         thrustmaster                    Y                False
+11004207-11013482#Walmart.com         thrustmaster         thrustmaster                    Y                False
+41897243-41403929#Zoro            excalibur            excalibur                    Y                False
+41359258-41403929#Zoro            excalibur            excalibur                    Y                False
+41897243-41404048#Zoro            excalibur            excalibur                    Y                False
+41870969-41404048#Zoro            excalibur            excalibur                    Y                False
+10730654-11013678#Walmart.com              memorex              memorex                    Y                False
+41077016-11013678#Walmart.com              memorex              memorex                    Y                False
+41335313-41404536#Zoro           tripp lite           tripp lite                    Y                False
+41332189-41404536#Zoro           tripp lite           tripp lite                    Y                False
+20512035-41404680#Zoro              pelican              pelican                    Y                False
+41925041-41404680#Zoro              pelican              pelican                    Y                False
+23744906-11014422#Walmart.com          cta digital          cta digital                    Y                False
+13726717-11014422#Walmart.com          cta digital          cta digital                    Y                False
+10334084-11015703#Walmart.com                 sony                 sony                    Y                False
+10884520-11016949#Walmart.com                 siig                 siig                    Y                False
+10884522-11016949#Walmart.com                 siig                 siig                    Y                False
+10730614-11016977#Walmart.com                   hp                   hp                    Y                False
+32527965-11016993#Walmart.com                lacie                lacie                    Y                False
+16401810-11017005#Walmart.com                cisco                cisco                    Y                False
+11315501-11017221#Walmart.com                                                              N                False
+41327221-41422689#Zoro                                                              D                False
+41398915-41422689#Zoro                                                              D                False
+41421456-41423428#Zoro              thomson              thomson                    Y                False
+41367877-41423428#Zoro              thomson              thomson                    Y                False
+35908123-41423840#Zoro          genius pack                                         N                False
+11018011-11018012#Walmart.com            bluemagic           blue magic                    Y                False
+11018010-11018012#Walmart.com            bluemagic           blue magic                    Y                False
+10993447-11018671#Walmart.com            dreamgear            dreamgear                    Y                False
+10187418-11018671#Walmart.com            dreamgear            dreamgear                    Y                False
+10334224-11018671#Walmart.com            dreamgear            dreamgear                    Y                False
+40837858-41427303#Zoro                                                              Y                False
+41361748-41427305#Zoro                brady                brady                    Y                False
+41340168-41427305#Zoro                brady                brady                    Y                False
+41879562-41864702#Zoro                brady                brady                    Y                False
+41923727-41865479#Zoro                                                              D                False
+41993517-41865479#Zoro                                                              D                False
+41983735-41865479#Zoro                                                              D                False
+41738106-41865507#Zoro           tripp lite           tripp lite                    Y                False
+41421005-41865507#Zoro           tripp lite           tripp lite                    Y                False
+19303863-41874750#Zoro               dremel                                         N                False
+41444953-41874750#Zoro              patriot                                         N                False
+42950043-41616110#O.co                                                              Y                False
+41644517-41616110#O.co                                                              Y                False
+25464793-28610308#UnbeatableSale.com                roden                roden                    Y                False
+28561299-28610308#UnbeatableSale.com                roden                roden                    Y                False
+11026800-11026796#Walmart.com                canon                canon                    Y                False
+29564775-11026797#Walmart.com                canon                canon                    Y                False
+41076528-11026797#Walmart.com                canon                canon                    Y                False
+11026798-11026800#Walmart.com                canon                canon                    Y                False
+10721366-11026916#Walmart.com            destineer            destineer                    Y                False
+41991218-41877657#Zoro                                                              D                False
+40780290-41877657#Zoro                                                              D                False
+40499875-41877918#Zoro            monoprice                                         N                False
+40501184-41877918#Zoro            monoprice                                         N                False
+40501016-41877918#Zoro            monoprice                                         N                False
+14932026-11027824#Walmart.com                ricoh               ardell                    N                False
+16550995-41880973#Zoro tuthill transfer / fill-rite                                         N                False
+41869957-41881323#Zoro                                                              Y                False
+41425879-41881323#Zoro                                                              Y                False
+41350045-41885833#Zoro                                                              D                False
+41426342-41885833#Zoro                                                              D                False
+41490273-11030547#Walmart.com                canon                canon                    Y                False
+43097018-11030547#Walmart.com                canon                canon                    Y                False
+11030546-11030548#Walmart.com                canon                canon                    Y                False
+41777285-11030548#Walmart.com                canon                canon                    Y                False
+41327085-41888184#Zoro                                                              D                False
+41342533-41888184#Zoro                                                              D                False
+17701198-28621838#UnbeatableSale.com         winsome wood              winsome                    Y                False
+11269621-28621838#UnbeatableSale.com              winsome              winsome                    Y                False
+11031537-11031538#Walmart.com       audio-technica       audio technica                    Y                False
+11031534-11031538#Walmart.com       audio-technica       audio technica                    Y                False
+41404048-41897243#Zoro            excalibur            excalibur                    Y                False
+41403929-41897243#Zoro            excalibur            excalibur                    Y                False
+41971816-41898813#Zoro           tripp lite           tripp lite                    Y                False
+42016088-41898813#Zoro           tripp lite           tripp lite                    Y                False
+42024776-41920954#Zoro             bussmann             bussmann                    Y                False
+41952203-41920954#Zoro             bussmann             bussmann                    Y                False
+43067293-41927908#Zoro                                                              Y                False
+43066849-41927908#Zoro                                                              Y                False
+43066630-41927908#Zoro                                                              Y                False
+40145575-11037319#Walmart.com                  tdk              generic                    N                False
+10363642-11037319#Walmart.com                  tdk              generic                    N                False
+14915853-11037319#Walmart.com                 sony              generic                    N                False
+11037611-11037614#Walmart.com                   hp                   hp                    Y                False
+11037613-11037614#Walmart.com                   hp                   hp                    Y                False
+11007932-11037626#Walmart.com                   hp                   hp                    Y                False
+13056314-11037626#Walmart.com                   hp                   hp                    Y                False
+11038058-11038061#Walmart.com               belkin               belkin                    Y                False
+11038059-11038061#Walmart.com               belkin               belkin                    Y                False
+11038057-11038065#Walmart.com               belkin               belkin                    Y                False
+11038066-11038065#Walmart.com               belkin               belkin                    Y                False
+11039917-11038615#Walmart.com           activision           activision                    Y                False
+42020282-41930955#Zoro                                                              D                False
+41925036-41930955#Zoro                                                              D                False
+41332409-41931181#Zoro                                                              Y                False
+40827466-41931181#Zoro        midland radio                                         N                False
+40197789-41932581#Zoro             startech                                         N                False
+41122651-11039690#Walmart.com              sangean              sangean                    Y                False
+41075591-11039690#Walmart.com              sangean              sangean                    Y                False
+41078851-11039690#Walmart.com              sangean              sangean                    Y                False
+20581835-41933960#Zoro      morris products                                         N                False
+20581834-41933960#Zoro      morris products                                         N                False
+40500458-41934036#Zoro            monoprice                                         N                False
+11991877-11039917#Walmart.com           activision           activision                    Y                False
+11040305-11040301#Walmart.com                                                              N                False
+10740337-11040301#Walmart.com                                                              N                False
+11040301-11040305#Walmart.com                                                              N                False
+10740337-11040305#Walmart.com                                                              N                False
+25842005-41940743#Zoro     cengage learning     cengage learning                    Y                False
+42004764-41940743#Zoro     cengage learning     cengage learning                    Y                False
+41942121-41941626#Zoro                                                              D                False
+41941863-41941626#Zoro                                                              D                False
+43066823-41941935#Zoro              siemens                                         N                False
+40721362-41941935#Zoro                                                              D                False
+43066597-41941935#Zoro              siemens                                         N                False
+41942558-41942061#Zoro                                                              D                False
+41942121-41942061#Zoro                                                              D                False
+41073068-41943907#Zoro                                                              N                False
+41930623-41943907#Zoro                                                              N                False
+20636848-11041680#Walmart.com                 pure                                         N                False
+41109549-41948808#Zoro                                                              Y                False
+41171022-41948808#Zoro                                                              Y                False
+12992959-28669767#UnbeatableSale.com ram gameroom products         ram gameroom                    Y                False
+36592839-11043060#Walmart.com              samsung                                         N                False
+34922154-28672441#UnbeatableSale.com               targus    steelman products                    N                False
+23145581-28672441#UnbeatableSale.com       asus notebooks    steelman products                    N                False
+43014764-13074755#Wayfair           tripp lite           tripp lite                    Y                False
+11077959-13074852#Wayfair           tripp lite           tripp lite                    Y                False
+40172127-13074852#Wayfair           tripp lite           tripp lite                    Y                False
+41074063-13075158#Wayfair             verbatim             verbatim                    Y                False
+11415494-13078541#Wayfair      middle atlantic      middle atlantic                    Y                False
+11962359-13078611#Wayfair      middle atlantic      middle atlantic                    Y                False
+13078574-13078611#Wayfair      middle atlantic      middle atlantic                    Y                False
+11464008-13078683#Wayfair      middle atlantic      middle atlantic                    Y                False
+11463924-13078683#Wayfair      middle atlantic      middle atlantic                    Y                False
+11464008-13078685#Wayfair      middle atlantic      middle atlantic                    Y                False
+11463924-13078685#Wayfair      middle atlantic      middle atlantic                    Y                False
+1604266-11044563#Walmart.com                                                              N                False
+11331623-13079868#Wayfair             peerless             peerless                    Y                False
+11331624-13079868#Wayfair             peerless             peerless                    Y                False
+40217770-13079868#Wayfair             peerless             peerless                    Y                False
+11331623-13079881#Wayfair             peerless             peerless                    Y                False
+11331624-13079881#Wayfair             peerless             peerless                    Y                False
+40217770-13079881#Wayfair             peerless             peerless                    Y                False
+11331623-13079927#Wayfair             peerless             peerless                    Y                False
+11331624-13079927#Wayfair             peerless             peerless                    Y                False
+40217770-13079927#Wayfair             peerless             peerless                    Y                False
+11331623-13079936#Wayfair             peerless             peerless                    Y                False
+11331624-13079936#Wayfair             peerless             peerless                    Y                False
+40217770-13079936#Wayfair             peerless             peerless                    Y                False
+11331623-13079937#Wayfair             peerless             peerless                    Y                False
+11331624-13079937#Wayfair             peerless             peerless                    Y                False
+40217770-13079937#Wayfair             peerless             peerless                    Y                False
+11331623-13079940#Wayfair             peerless             peerless                    Y                False

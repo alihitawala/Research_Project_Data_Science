@@ -2,10 +2,11 @@ __author__ = 'aliHitawala'
 
 brand_name_list_file_name = "files/brands.electronics-frank.txt"
 brand_name_list_file_name_freq = "files/all_brand_dic.txt"
-all_pairs_file_name = "files/sample_elec_pairs.txt"
-# all_pairs_file_name = "files/elec_pairs_2K.txt"
+# all_pairs_file_name = "files/sample_elec_pairs.txt"
+all_pairs_file_name = "files/elec_pairs_2K.txt"
 results_file_name = "files/results.txt"
-brand_name_golden_data_file_name = "files/brand_name_match_golden_result"
+# brand_name_golden_data_file_name = "files/brand_name_match_golden_result"
+brand_name_golden_data_file_name = "files/brand_name_match_golden_result_400"
 
 matcher_algo_exact_match = "EXACT_MATCH"
 matcher_algo_part_match = "PART_MATCH"

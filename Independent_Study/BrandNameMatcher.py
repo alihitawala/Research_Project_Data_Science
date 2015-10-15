@@ -32,17 +32,33 @@ def get_precision(all_pairs):
         pair_list[pair_id] = match
     count_matched_correct = 0.0
     count_matched_wrong = 0.0
+    count_actual_Y_match = 0.0
+    count_actual_Y_mismatch = 0.0
+    count_on_which_no_prediction = 0.0
+    count_total = 0.0
     for pair in all_pairs:
         pair_id = pair.pair_id
         result_actual = pair_list[pair_id]
         result_found = pair.brand_match
-        if result_actual == result_found:
-            count_matched_correct+=1
-        elif result_found != 'D':
-            count_matched_wrong+=1
+        count_total += 1
+        if result_actual == result_found and result_actual != 'D':
+            count_matched_correct += 1
+            if result_actual == 'Y':
+                count_actual_Y_match += 1
+        elif result_found != 'D' and result_actual != 'D':
+            count_matched_wrong += 1
+            if result_actual == 'Y':
+                count_actual_Y_mismatch += 1
             logger.warning("Brand name not matched correctly for pair id : " + pair.pair_id)
-    percent = (count_matched_correct/(count_matched_wrong+count_matched_correct))*100
-    print percent
+        if result_found == 'D':
+            count_on_which_no_prediction += 1
+    logger.info("Total brand name matched : " + str(count_matched_correct))
+    precision = (count_matched_correct/(count_matched_wrong+count_matched_correct))*100
+    recall = (count_actual_Y_match/ (count_actual_Y_match+count_actual_Y_mismatch)) * 100
+    coverage = ((count_total-count_on_which_no_prediction)/ count_total) * 100
+    logger.info("Recall :: " + str(recall))
+    logger.info("Precision :: " + str(precision))
+    logger.info("Coverage :: " + str(coverage))
 
 def matcher():
     all_pairs = ProductObjectCreator.parse_file_get_pairs()
