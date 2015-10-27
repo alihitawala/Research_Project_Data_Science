@@ -57,7 +57,7 @@ def get_precision(all_pairs):
     recall = (count_actual_Y_match/ (count_actual_Y_match+count_actual_Y_mismatch)) * 100
     coverage = ((count_total-count_on_which_no_prediction)/ count_total) * 100
     logger.info("Recall :: " + str(recall))
-    logger.info("Precision :: " + str(precision))
+    logger.info("Accuracy :: " + str(precision))
     logger.info("Coverage :: " + str(coverage))
 
 def matcher():
