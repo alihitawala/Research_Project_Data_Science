@@ -1,0 +1,364 @@
+INFO:ProductObjectCreator:Start reading database
+ERROR:ProductObjectCreator:Parsing failed for JSON, for product id : 13071910
+INFO:__main__:Started the brand name matcher..
+ERROR:ProductObjectCreator:Parsing failed for JSON, for product id : 13071910
+INFO:Matcher:ALGO id : 1, pair matched 4217002-4217002#eBags
+INFO:Matcher:ALGO id : 1, pair matched 5347115-5347115#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8245516-8245516#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8586825-8586825#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9193948-9193948#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3377768-3377768#eBags
+INFO:Matcher:ALGO id : 1, pair matched 4217014-4217014#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9447294-9447294#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3356833-3356833#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3377763-3377763#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3377767-3377767#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3356835-3356835#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8586819-8586819#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225287-9225287#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225291-9225291#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8586826-8586826#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225276-9225276#eBags
+INFO:Matcher:ALGO id : 1, pair matched 4805973-4805973#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225280-9225280#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225292-9225292#eBags
+INFO:Matcher:ALGO id : 1, pair matched 4216995-4216995#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9875796-9875796#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225273-9225273#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225293-9225293#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3356836-3356836#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3371668-3371668#eBags
+INFO:Matcher:ALGO id : 1, pair matched 4217000-4217000#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8586822-8586822#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225274-9225274#eBags
+INFO:Matcher:ALGO id : 1, pair matched 4217003-4217003#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225275-9225275#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3985006-3985006#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3356838-3356838#eBags
+INFO:Matcher:ALGO id : 1, pair matched 5996481-5996481#eBags
+INFO:Matcher:ALGO id : 1, pair matched 5996470-5996470#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9863777-9863777#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225288-9225288#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3356840-3356840#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 9208106-9208106#eBags brand + hp, good confidence :: 22457
+INFO:Matcher:ALGO id : 4.4, pair matched 9208106-9208106#eBags Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 9225277-9225277#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9722003-9722003#eBags
+INFO:Matcher:ALGO id : 1, pair matched 10073803-10073803#eBags
+INFO:Matcher:ALGO id : 1, pair matched 10910315-10910315#eBags
+INFO:Matcher:ALGO id : 1, pair matched 11068335-11068335#eBags
+INFO:Matcher:ALGO id : 1, pair matched 11082496-11082496#eBags
+INFO:Matcher:ALGO id : 1, pair matched 11084238-11084238#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 11988059-11988059#eBags brand + dimensions, good confidence :: 1936
+INFO:Matcher:ALGO id : 4.4, pair matched 11988059-11988059#eBags Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 11988076-11988076#eBags
+INFO:Matcher:ALGO id : 1, pair matched 11997515-11997515#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12180028-12180028#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12180070-12180070#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12180103-12180103#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12181608-12181608#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12181609-12181609#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 12181620-12181620#eBags brand + case, low confidence :: 603
+INFO:Matcher:ALGO id : 4.4, pair matched 12181620-12181620#eBags Extent :: D
+INFO:Matcher:ALGO id : 1, pair matched 12181700-12181700#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12181705-12181705#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12182239-12182239#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12182374-12182374#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12182400-12182400#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12182846-12182846#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12183204-12183204#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 932031-932031#Limited Goods brand + belkin
+INFO:Matcher:ALGO id : 4.3, pair matched 932031-932031#Limited Goods Extent :: Y
+INFO:Matcher:4.23 :: Brand predicted for pair id : 1234894-1234894#Limited Goods brand + canon
+INFO:Matcher:ALGO id : 4.3, pair matched 1234894-1234894#Limited Goods Extent :: Y
+INFO:Matcher:4.23 :: Brand predicted for pair id : 3756896-3756896#Limited Goods brand + belkin
+INFO:Matcher:ALGO id : 4.3, pair matched 3756896-3756896#Limited Goods Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 4025874-4025874#Limited Goods
+INFO:Matcher:4.23 :: Brand predicted for pair id : 7754443-7754443#Limited Goods brand + maxell
+INFO:Matcher:ALGO id : 4.3, pair matched 7754443-7754443#Limited Goods Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 9189660-9189660#Limited Goods
+INFO:Matcher:ALGO id : 1, pair matched 9225261-9225261#Limited Goods
+INFO:Matcher:4.23 :: Brand predicted for pair id : 9871188-9871188#Limited Goods brand + energizer
+INFO:Matcher:ALGO id : 4.3, pair matched 9871188-9871188#Limited Goods Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 12184525-12184525#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12184565-12184565#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 872051-872051#ivgStores brand + eveready
+INFO:Matcher:ALGO id : 4.3, pair matched 872051-872051#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 2585639-2585639#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 3387612-3387612#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 3576485-3576485#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 12186203-12186203#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12186211-12186211#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12186335-12186335#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 4664464-4664464#ivgStores brand + canon
+INFO:Matcher:ALGO id : 4.3, pair matched 4664464-4664464#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 5723587-5723587#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 12187451-12187451#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12187705-12187705#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12187816-12187816#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12187871-12187871#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12342530-12342530#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12343007-12343007#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12343021-12343021#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9225253-9225253#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 2445355-2445355#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 2585638-2585638#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 2685981-2685981#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 12360588-12360588#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12361423-12361423#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 7964947-7964947#ivgStores brand + dreamgear
+INFO:Matcher:ALGO id : 4.3, pair matched 7964947-7964947#ivgStores Extent :: Y
+INFO:Matcher:4.23 :: Brand predicted for pair id : 7964948-7964948#ivgStores brand + dreamgear
+INFO:Matcher:ALGO id : 4.3, pair matched 7964948-7964948#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 12444923-12444923#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 1233539-1233539#ivgStores brand + cobra electronics
+INFO:Matcher:ALGO id : 4.3, pair matched 1233539-1233539#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 2, pair matched 2160472-2160472#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 12509863-12509863#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 2470635-2470635#ivgStores brand + iogear
+INFO:Matcher:ALGO id : 4.3, pair matched 2470635-2470635#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 2470642-2470642#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 2585627-2585627#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 12528315-12528315#eBags
+INFO:Matcher:ALGO id : 1, pair matched 3321417-3321417#ivgStores
+INFO:Matcher:4.14 :: Brand predicted for pair id : 29829040-29829040#Perf-Moto brand + american standard, good confidence :: 4068
+INFO:Matcher:ALGO id : 4.1, pair matched 29829040-29829040#Perf-Moto Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 12548329-12548329#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15010243-15010243#Babyhaven
+INFO:Matcher:ALGO id : 1, pair matched 13045149-13045149#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13050315-13050315#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 8154370-8154370#ivgStores brand + garmin
+INFO:Matcher:ALGO id : 4.3, pair matched 8154370-8154370#ivgStores Extent :: Y
+WARNING:__main__:Atleast one of the product is not parsed correctly in pair 13071910-13071910#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13219542-13219542#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13219580-13219580#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13219589-13219589#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13219595-13219595#eBags
+INFO:Matcher:ALGO id : 2, pair matched 9893700-9893700#ivgStores
+INFO:Matcher:ALGO id : 2, pair matched 13241061-13241061#eBags
+INFO:Matcher:4.23 :: Brand predicted for pair id : 1233548-1233548#ivgStores brand + cobra electronics
+INFO:Matcher:ALGO id : 4.3, pair matched 1233548-1233548#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 2, pair matched 13246663-13246663#eBags
+INFO:Matcher:ALGO id : 2, pair matched 13246664-13246664#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13248342-13248342#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13252811-13252811#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13730097-13730097#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13730100-13730100#eBags
+INFO:Matcher:ALGO id : 1, pair matched 13812840-13812840#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 5934005-5934005#ivgStores brand + mac, low confidence :: 416
+INFO:Matcher:ALGO id : 4.4, pair matched 5934005-5934005#ivgStores Extent :: D
+INFO:Matcher:ALGO id : 1, pair matched 13983018-13983018#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 8111422-8111422#ivgStores brand + energizer, good confidence :: 1311
+INFO:Matcher:ALGO id : 4.4, pair matched 8111422-8111422#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 8144079-8144079#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 14118875-14118875#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8144086-8144086#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 14178205-14178205#eBags
+INFO:Matcher:ALGO id : 1, pair matched 14313307-14313307#eBags
+INFO:Matcher:ALGO id : 1, pair matched 14574778-14574778#eBags
+INFO:Matcher:ALGO id : 1, pair matched 14644597-14644597#eBags
+INFO:Matcher:ALGO id : 1, pair matched 932034-932034#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 2470128-2470128#ivgStores
+INFO:Matcher:4.14 :: Brand predicted for pair id : 14664902-14664902#eBags brand + dimensions, good confidence :: 1936
+INFO:Matcher:ALGO id : 4.4, pair matched 14664902-14664902#eBags Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 3576486-3576486#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 3630474-3630474#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 14967560-14967560#eBags
+INFO:Matcher:ALGO id : 1, pair matched 14978725-14978725#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15040735-15040735#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15040761-15040761#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15042368-15042368#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15042380-15042380#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15062939-15062939#eBags
+INFO:Matcher:ALGO id : 1, pair matched 5799655-5799655#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 15062963-15062963#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15111419-15111419#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15172512-15172512#eBags
+INFO:Matcher:ALGO id : 1, pair matched 8136492-8136492#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 15406802-15406802#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15421546-15421546#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15522312-15522312#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15524252-15524252#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15524257-15524257#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15525124-15525124#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 9907221-9907221#ivgStores brand + concepts, low confidence :: 426
+INFO:Matcher:ALGO id : 4.4, pair matched 9907221-9907221#ivgStores Extent :: D
+INFO:Matcher:ALGO id : 1, pair matched 15525125-15525125#eBags
+INFO:Matcher:ALGO id : 1, pair matched 9919109-9919109#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 20565753-16225385#eBags
+INFO:Matcher:ALGO id : 1, pair matched 20565735-16225385#eBags
+INFO:Matcher:ALGO id : 1, pair matched 22293444-16225387#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16225385-16225387#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16225401-16225402#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16225399-16225402#eBags
+INFO:Matcher:ALGO id : 2, pair matched 16225398-16225402#eBags
+INFO:Matcher:ALGO id : 1, pair matched 23226944-16332622#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16453808-16453823#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16453811-16453823#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16453810-16453823#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12359359-16489720#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16489723-16489720#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16539485-16539484#eBags
+INFO:Matcher:ALGO id : 1, pair matched 21551929-16539484#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16539485-16539487#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16539484-16539487#eBags
+INFO:Matcher:ALGO id : 1, pair matched 21551929-16539487#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16783599-16541378#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15406795-16541378#eBags
+INFO:Matcher:ALGO id : 1, pair matched 20468957-16561013#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15716948-16561718#eBags
+INFO:Matcher:ALGO id : 1, pair matched 26464252-16561718#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16561940-16561786#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16561712-16561786#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12509680-16561886#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16561887-16561886#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12509689-16561886#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16561684-16561921#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16561683-16561921#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16561688-16561930#eBags
+INFO:Matcher:ALGO id : 1, pair matched 25205883-16561930#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16565535-16565536#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17654764-16565536#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15106130-16621120#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16539457-16621120#eBags
+INFO:Matcher:ALGO id : 1, pair matched 30055124-29889954#Perf-Moto
+INFO:Matcher:ALGO id : 1, pair matched 30238743-29889954#Perf-Moto
+INFO:Matcher:ALGO id : 1, pair matched 29991101-29889954#Perf-Moto
+INFO:Matcher:ALGO id : 1, pair matched 12185577-16660110#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12184468-16660110#eBags
+INFO:Matcher:4.14 :: Brand predicted for pair id : 16660784-16660759#eBags brand + hp, good confidence :: 22457
+INFO:Matcher:ALGO id : 4.4, pair matched 16660784-16660759#eBags Extent :: Y
+INFO:Matcher:4.14 :: Brand predicted for pair id : 16660770-16660759#eBags brand + hp, good confidence :: 22457
+INFO:Matcher:ALGO id : 4.4, pair matched 16660770-16660759#eBags Extent :: Y
+INFO:Matcher:4.14 :: Brand predicted for pair id : 16660784-16660772#eBags brand + hp, good confidence :: 22457
+INFO:Matcher:ALGO id : 4.4, pair matched 16660784-16660772#eBags Extent :: Y
+INFO:Matcher:4.14 :: Brand predicted for pair id : 16660770-16660772#eBags brand + hp, good confidence :: 22457
+INFO:Matcher:ALGO id : 4.4, pair matched 16660770-16660772#eBags Extent :: Y
+INFO:Matcher:4.14 :: Brand predicted for pair id : 16660861-16660778#eBags brand + dimensions, good confidence :: 1936
+INFO:Matcher:ALGO id : 4.4, pair matched 16660861-16660778#eBags Extent :: Y
+INFO:Matcher:4.14 :: Brand predicted for pair id : 15722382-16660778#eBags brand + dimensions, good confidence :: 1936
+INFO:Matcher:ALGO id : 4.4, pair matched 15722382-16660778#eBags Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 16792060-16792047#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16946434-16792047#eBags
+INFO:Matcher:ALGO id : 1, pair matched 20552042-16792047#eBags
+INFO:Matcher:ALGO id : 1, pair matched 27512327-16794808#eBags
+INFO:Matcher:ALGO id : 1, pair matched 21128592-16794808#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15525118-16794808#eBags
+INFO:Matcher:ALGO id : 1, pair matched 21128539-16794823#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12186016-16794823#eBags
+INFO:Matcher:ALGO id : 1, pair matched 39639520-39639515#Babyhaven
+INFO:Matcher:ALGO id : 1, pair matched 42889004-39639515#Babyhaven
+INFO:Matcher:ALGO id : 1, pair matched 16873979-16873978#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16873738-16873978#eBags
+INFO:Matcher:ALGO id : 1, pair matched 24542106-16874952#eBags
+INFO:Matcher:ALGO id : 1, pair matched 24542107-16874952#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12187138-16874952#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16874965-16874966#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927127-16927121#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927131-16927121#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927127-16927122#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927128-16927122#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927128-16927126#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927125-16927126#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927129-16927131#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16927130-16927131#eBags
+INFO:Matcher:ALGO id : 1, pair matched 29372731-16933452#eBags
+INFO:Matcher:ALGO id : 1, pair matched 29372730-16933452#eBags
+INFO:Matcher:ALGO id : 1, pair matched 20897845-16944283#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16778253-17032482#eBags
+INFO:Matcher:ALGO id : 1, pair matched 29732878-17129605#eBags
+INFO:Matcher:ALGO id : 1, pair matched 29732874-17129605#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17129626-17129683#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17129598-17129683#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17129658-17129683#eBags
+INFO:Matcher:ALGO id : 2, pair matched 17510991-17133293#eBags
+INFO:Matcher:ALGO id : 2, pair matched 17510956-17133293#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17134131-17134132#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16873740-17134132#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17134162-17134137#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17134135-17134137#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17134161-17134137#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17134145-17134144#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17211252-17134144#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17211176-17134166#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17212352-17134166#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17212351-17134166#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17211225-17211249#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17211248-17211249#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17134162-17211249#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17277021-17277012#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17277014-17277012#eBags
+INFO:Matcher:ALGO id : 1, pair matched 39505613-39505611#Babyhaven
+INFO:Matcher:ALGO id : 1, pair matched 24633722-39505611#Babyhaven
+INFO:Matcher:ALGO id : 1, pair matched 17787030-17323887#eBags
+INFO:Matcher:ALGO id : 1, pair matched 34240989-17323887#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16480768-17323887#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17395950-17395941#eBags
+INFO:Matcher:ALGO id : 1, pair matched 21889921-17395941#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17395923-17395975#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17395981-17395975#eBags
+INFO:Matcher:ALGO id : 1, pair matched 31420666-14915802#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 41099843-14915802#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 40177097-14915802#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 17449845-17449846#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15063000-17449846#eBags
+INFO:Matcher:ALGO id : 1, pair matched 33946313-14916415#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 32545299-14916415#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 23134150-14916415#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 34954174-14922530#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 14915870-14922530#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 17654764-17654766#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17654765-17654766#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17211176-17756892#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17756903-17756892#eBags
+INFO:Matcher:ALGO id : 1, pair matched 17756902-17756892#eBags
+INFO:Matcher:ALGO id : 1, pair matched 29569421-17756998#eBags
+INFO:Matcher:ALGO id : 2, pair matched 33836735-14927489#ivgStores
+INFO:Matcher:ALGO id : 2, pair matched 32511770-14927489#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 17811941-17811940#eBags
+INFO:Matcher:ALGO id : 2, pair matched 32111839-14927489#ivgStores
+INFO:Matcher:4.14 :: Brand predicted for pair id : 15570486-17811940#eBags brand + dimensions, good confidence :: 1936
+INFO:Matcher:ALGO id : 4.4, pair matched 15570486-17811940#eBags Extent :: Y
+INFO:Matcher:ALGO id : 2, pair matched 33836735-14927495#ivgStores
+INFO:Matcher:ALGO id : 2, pair matched 32511770-14927495#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 12183408-17811959#eBags
+INFO:Matcher:ALGO id : 1, pair matched 12183403-17811959#eBags
+INFO:Matcher:ALGO id : 1, pair matched 16914020-17811959#eBags
+INFO:Matcher:ALGO id : 2, pair matched 23140292-14928628#ivgStores
+INFO:Matcher:ALGO id : 2, pair matched 23140549-14928628#ivgStores
+INFO:Matcher:4.23 :: Brand predicted for pair id : 13044365-14931223#ivgStores brand + 3m
+INFO:Matcher:ALGO id : 4.3, pair matched 13044365-14931223#ivgStores Extent :: Y
+INFO:Matcher:4.23 :: Brand predicted for pair id : 13044363-14931223#ivgStores brand + 3m
+INFO:Matcher:ALGO id : 4.3, pair matched 13044363-14931223#ivgStores Extent :: Y
+INFO:Matcher:4.23 :: Brand predicted for pair id : 14935224-14931223#ivgStores brand + 3m
+INFO:Matcher:ALGO id : 4.3, pair matched 14935224-14931223#ivgStores Extent :: Y
+INFO:Matcher:4.23 :: Brand predicted for pair id : 40182247-15048429#ivgStores brand + audio technica
+INFO:Matcher:ALGO id : 4.2, pair matched 40182247-15048429#ivgStores Extent :: Y
+INFO:Matcher:ALGO id : 1, pair matched 31156176-15066078#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 31424213-15066078#ivgStores
+INFO:Matcher:ALGO id : 1, pair matched 19316104-19316103#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19316077-19316103#eBags
+INFO:Matcher:ALGO id : 1, pair matched 21296718-19426181#eBags
+INFO:Matcher:ALGO id : 1, pair matched 15846619-19426181#eBags
+INFO:Matcher:ALGO id : 1, pair matched 40212020-19426181#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19480534-19480533#eBags
+INFO:Matcher:ALGO id : 1, pair matched 29969257-29968971#Perf-Moto
+INFO:Matcher:ALGO id : 1, pair matched 19480532-19480533#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19480536-19480535#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19480538-19480535#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19480535-19480536#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19480538-19480536#eBags
+INFO:Matcher:ALGO id : 1, pair matched 20970720-19486615#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19486712-19486715#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19486714-19486715#eBags
+INFO:Matcher:ALGO id : 1, pair matched 19486997-19486743#eBags
+INFO:Matcher:ALGO id : 1, pair matched 22214525-19486743#eBags
+Matched :  315
+Don't know match :  3
+Total pair in consideration 325
+WARNING:__main__:Brand name not matched correctly for pair id : 17771102-17771102#Babyhaven
+WARNING:__main__:Brand name not matched correctly for pair id : 13071910-13071910#eBags
+INFO:__main__:Total brand name matched : 320.0
+INFO:__main__:Recall :: 99.3690851735
+INFO:__main__:Accuracy :: 99.3788819876
+INFO:__main__:Coverage :: 99.0769230769
