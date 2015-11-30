@@ -124,6 +124,11 @@ def parse_tokens(all_pairs):
         pair_list.append(a)
     return pair_list
 
+def parse_product(product_json_1, product_json_2):
+    product_v = get_product_object("1", product_json_1)
+    product_w = get_product_object("2", product_json_2)
+    pair = Pair("1_2", product_v, product_w, True)
+    return pair
 
 def parse_file_get_pairs():
     all_pairs = [line.rstrip('\n') for line in open(C.all_pairs_file_name)]
@@ -135,5 +140,3 @@ def unicodeToString(unicode):
         return unicode
     else:
         return unicode.encode('ascii','ignore').lower()
-
-parse_file_get_pairs()

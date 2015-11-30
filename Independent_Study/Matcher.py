@@ -162,26 +162,27 @@ def _is_brand_match_on_description(pair):
             and (pair.w.brand is None or pair.w.brand.strip() == ''):
         result = _check_product_description_for_both_product(pair)
         if result.prediction == 1 or result.prediction == -1:
-            logger.info("ALGO id : 4.1, pair matched " + pair.pair_id + " Extent :: " + str(result.confidence))
+            logger.info("ALGO id : 4.1, pair matched " + pair.pair_id + " Prediction :: " + str(result.prediction) + " Extent :: " + str(result.confidence))
             return result
     elif pair.v.brand is None or pair.v.brand.strip() == '':
         result = _check_product_description_for_one_product(pair, pair.v, pair.w.brand)
         if result.prediction == 1 or result.prediction == -1:
-            logger.info("ALGO id : 4.2, pair matched " + pair.pair_id + " Extent :: " + str(result.confidence))
+            logger.info("ALGO id : 4.2, pair matched " + pair.pair_id + " Prediction :: " + str(result.prediction) + " Extent :: " + str(result.confidence))
             return result
     elif pair.w.brand is None or pair.w.brand.strip() == '':
         result = _check_product_description_for_one_product(pair, pair.w, pair.v.brand)
         if result.prediction == 1 or result.prediction == -1:
-            logger.info("ALGO id : 4.3, pair matched " + pair.pair_id + " Extent :: " + str(result.confidence))
+            logger.info("ALGO id : 4.3, pair matched " + pair.pair_id + " Prediction :: " + str(result.prediction) + " Extent :: " + str(result.confidence))
             return result
     else:
         result = check_product_descripton_given_unmatched_brand(pair)
         if result.prediction == 1 or result.prediction == -1:
-            logger.info("ALGO id : 4.4, pair matched " + pair.pair_id + " Extent :: " + str(result.confidence))
+            logger.info("ALGO id : 4.4, pair matched " + pair.pair_id + " Prediction :: " + str(result.prediction) + " Extent :: " + str(result.confidence))
             return result
     return Prediction(0)
 
-def aggregate_matcher(pair, algorithm_pref=None):
+
+def aggregate_matcher(pair, algorithm_pref=None, dict_path=None):
     if algorithm_pref is None:
         logger.error("Aggregate Matcher called without any algorithm")
         return None
@@ -189,6 +190,10 @@ def aggregate_matcher(pair, algorithm_pref=None):
         return Prediction(0)
     if _if_either_product_not_defined(pair):
         return Prediction(0)
+    # reinitializing dict object if a new file name is provided
+    if dict_path is not None:
+        global brand_list
+        brand_list = BrandNameList(dict_path)
     for algorithm in algorithm_pref:
         if algorithm == C.matcher_algo_exact_match:
             p = _is_exact_match(pair)

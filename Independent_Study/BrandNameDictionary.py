@@ -8,8 +8,8 @@ class BrandNameList(object):
     """
     _no_brand_name = 2
 
-    def __init__(self):
-        lines = [line.rstrip('\n') for line in open(Constants.brand_name_list_file_name_freq)]
+    def __init__(self, path_to_file=Constants.brand_name_list_file_name_freq):
+        lines = [line.rstrip('\n') for line in open(path_to_file)]
         self._list = []
         self._map = {}
         for line in lines:

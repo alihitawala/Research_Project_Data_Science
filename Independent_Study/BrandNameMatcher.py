@@ -1,6 +1,5 @@
 __author__ = 'aliHitawala'
 import ProductObjectCreator
-from BrandNameDictionary import BrandNameList
 import Constants as C
 import logging
 import Matcher
@@ -10,16 +9,19 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.info('Started the brand name matcher..')
 
-brand_list = BrandNameList()
 
+def match_products(product_json_1, product_json_2, dict_path):
+    pair = ProductObjectCreator.parse_product(product_json_1, product_json_2)
+    prediction = match(pair, dict_path)
+    return [prediction.prediction, prediction.confidence]
 
-def match(pair):
+def match(pair, dict_path=None):
     if pair.v is None or pair.w is None:
         logger.warning("Atleast one of the product is not parsed correctly in pair " + pair.pair_id)
         return Prediction(0, 0.0)
     result = Matcher.aggregate_matcher(pair,
         algorithm_pref=[C.matcher_algo_exact_match, C.matcher_algo_part_match,
-                        C.matcher_algo_jaccard_match, C.matcher_algo_information_extraction])
+                        C.matcher_algo_jaccard_match, C.matcher_algo_information_extraction], dict_path=dict_path)
     return result
 
 
@@ -69,8 +71,6 @@ def matcher():
     for pair in all_pairs:
         is_match = match(pair)
         count_total += 1
-        if type(is_match) is str:
-            continue
         if is_match.prediction == 1:
             count_matched+=1
         if is_match.prediction == 0:
@@ -91,4 +91,4 @@ def populate_results(all_pairs):
             result_file.write('%-20s %20s %20s %20s %20s\n' % (pair.pair_id, pair.v.brand, pair.w.brand, str(pair.brand_match.prediction), str(pair.is_match)))
     result_file.close()
 
-matcher()
+# matcher()
